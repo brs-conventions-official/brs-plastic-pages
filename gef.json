@@ -1,0 +1,745 @@
+[
+  {
+    "type": "gef",
+    "feedId": "11197",
+    "sourceDate": "2024-12-19T15:19:58.555Z",
+    "id": "gef-11197",
+    "name": "Circular Solutions to Plastic Pollution: Global Platform",
+    "beneficiaries": [],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "United Nations Environment Programme (UNEP)",
+        "category": "united nations",
+        "aliases": [
+          "United Nations Environment Programme"
+        ]
+      },
+      {
+        "name": "World Wildlife Fund",
+        "category": "non-governmental organization",
+        "aliases": [
+          "World Wildlife Fund",
+          "World Wildlife Fund - US Chapter"
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Biodiversity"
+      },
+      {
+        "name": "Climate Change"
+      },
+      {
+        "name": "International Waters"
+      }
+    ],
+    "status": "on_going",
+    "budget": 130194549,
+    "isGlobal": true,
+    "url": "https://www.thegef.org/projects-operations/projects/11197",
+    "isUmbrella": true
+  },
+  {
+    "type": "gef",
+    "feedId": "11195",
+    "sourceDate": "2024-12-19T15:19:58.555Z",
+    "id": "gef-11195",
+    "name": "Support the management of plastic pollution in Senegal (Plastic IP)",
+    "beneficiaries": [
+      {
+        "iso2": "SN",
+        "name": "Senegal",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme",
+        "category": "other"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Biodiversity"
+      },
+      {
+        "name": "International Waters"
+      }
+    ],
+    "status": "not_started",
+    "budget": 46022483,
+    "isGlobal": false,
+    "url": "https://www.thegef.org/projects-operations/projects/11195"
+  },
+  {
+    "type": "gef",
+    "feedId": "11193",
+    "sourceDate": "2024-12-19T15:19:58.555Z",
+    "id": "gef-11193",
+    "name": "Circular Solutions to Plastic Pollution in Nigeria",
+    "beneficiaries": [
+      {
+        "iso2": "NG",
+        "name": "Nigeria",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "United Nations Environment Programme (UNEP)",
+        "category": "united nations",
+        "aliases": [
+          "United Nations Environment Programme"
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Biodiversity"
+      },
+      {
+        "name": "Climate Change"
+      },
+      {
+        "name": "International Waters"
+      }
+    ],
+    "status": "not_started",
+    "budget": 40139486,
+    "isGlobal": false,
+    "url": "https://www.thegef.org/projects-operations/projects/11193",
+    "umbrellaId": "gef-11197",
+    "umbrellaUrl": "https://www.worldwildlife.org/projects/circular-solutions-to-plastic-pollution-global-project"
+  },
+  {
+    "type": "gef",
+    "feedId": "11191",
+    "sourceDate": "2024-12-19T15:19:58.555Z",
+    "id": "gef-11191",
+    "name": "Circular Solutions to Plastic Pollution in Peru",
+    "beneficiaries": [
+      {
+        "iso2": "PE",
+        "name": "Peru",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "United Nations Environment Programme (UNEP)",
+        "category": "united nations",
+        "aliases": [
+          "United Nations Environment Programme"
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "name": "International Waters"
+      }
+    ],
+    "status": "not_started",
+    "budget": 62211308,
+    "isGlobal": false,
+    "url": "https://www.thegef.org/projects-operations/projects/11191",
+    "umbrellaId": "gef-11197",
+    "umbrellaUrl": "https://www.worldwildlife.org/projects/circular-solutions-to-plastic-pollution-global-project"
+  },
+  {
+    "type": "gef",
+    "feedId": "11190",
+    "sourceDate": "2024-12-19T15:19:58.555Z",
+    "id": "gef-11190",
+    "name": "Promoting Circular Solutions to Single-Use Plastic Consumption in Lao PDR. (Plastics IP)",
+    "beneficiaries": [
+      {
+        "iso2": "LA",
+        "name": "Lao People's Democratic Republic",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "World Wildlife Fund",
+        "category": "non-governmental organization",
+        "aliases": [
+          "World Wildlife Fund",
+          "World Wildlife Fund - US Chapter"
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "name": "International Waters"
+      }
+    ],
+    "status": "not_started",
+    "budget": 10796487,
+    "isGlobal": false,
+    "url": "https://www.thegef.org/projects-operations/projects/11190",
+    "umbrellaId": "gef-11197",
+    "umbrellaUrl": "https://www.worldwildlife.org/projects/circular-solutions-to-plastic-pollution-global-project"
+  },
+  {
+    "type": "gef",
+    "feedId": "11188",
+    "sourceDate": "2024-12-19T15:19:58.555Z",
+    "id": "gef-11188",
+    "name": "Operationalizing and implementing circular economy solutions to minimize plastic waste and reduce plastic pollution from food and beverage packaging (Plastic IP)",
+    "beneficiaries": [
+      {
+        "iso2": "IN",
+        "name": "India",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "United Nations Environment Programme",
+        "category": "other"
+      },
+      {
+        "name": "United Nations Industrial Development Organization",
+        "category": "other"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Climate Change"
+      },
+      {
+        "name": "International Waters"
+      }
+    ],
+    "status": "not_started",
+    "budget": 51718017,
+    "isGlobal": false,
+    "url": "https://www.thegef.org/projects-operations/projects/11188"
+  },
+  {
+    "type": "gef",
+    "feedId": "11187",
+    "sourceDate": "2024-12-19T15:19:58.555Z",
+    "id": "gef-11187",
+    "name": "Circular Solutions to Plastic Pollution in the Dominican Republic",
+    "beneficiaries": [
+      {
+        "iso2": "DO",
+        "name": "Dominican Republic",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme",
+        "category": "other"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Climate Change"
+      },
+      {
+        "name": "International Waters"
+      }
+    ],
+    "status": "not_started",
+    "budget": 52386135,
+    "isGlobal": false,
+    "url": "https://www.thegef.org/projects-operations/projects/11187"
+  },
+  {
+    "type": "gef",
+    "feedId": "11186",
+    "sourceDate": "2024-12-19T15:19:58.555Z",
+    "id": "gef-11186",
+    "name": "Circular solutions to plastic pollution",
+    "beneficiaries": [
+      {
+        "iso2": "CR",
+        "name": "Costa Rica",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme",
+        "category": "other"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Biodiversity"
+      },
+      {
+        "name": "International Waters"
+      }
+    ],
+    "status": "not_started",
+    "budget": 24673024,
+    "isGlobal": false,
+    "url": "https://www.thegef.org/projects-operations/projects/11186"
+  },
+  {
+    "type": "gef",
+    "feedId": "11184",
+    "sourceDate": "2024-12-19T15:19:58.555Z",
+    "id": "gef-11184",
+    "name": "Promoting circular solutions for the food & beverage sector to tackle plastic pollution in Cambodia (Plastic IP)",
+    "beneficiaries": [
+      {
+        "iso2": "KH",
+        "name": "Cambodia",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "United Nations Environment Programme (UNEP)",
+        "category": "united nations",
+        "aliases": [
+          "United Nations Environment Programme"
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "name": "International Waters"
+      }
+    ],
+    "status": "not_started",
+    "budget": 34252294,
+    "isGlobal": false,
+    "url": "https://www.thegef.org/projects-operations/projects/11184",
+    "umbrellaId": "gef-11197",
+    "umbrellaUrl": "https://www.worldwildlife.org/projects/circular-solutions-to-plastic-pollution-global-project"
+  },
+  {
+    "type": "gef",
+    "feedId": "11182",
+    "sourceDate": "2024-12-19T15:19:58.555Z",
+    "id": "gef-11182",
+    "name": "Innovation ecosystem for the circularity of plastics, reduction of consumption, and disposal of single-use plastic in the HORECA sector (Plastic IP)",
+    "beneficiaries": [
+      {
+        "iso2": "BR",
+        "name": "Brazil",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "United Nations Environment Programme (UNEP)",
+        "category": "united nations",
+        "aliases": [
+          "United Nations Environment Programme"
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Biodiversity"
+      },
+      {
+        "name": "International Waters"
+      }
+    ],
+    "status": "not_started",
+    "budget": 224627636,
+    "isGlobal": false,
+    "url": "https://www.thegef.org/projects-operations/projects/11182"
+  },
+  {
+    "type": "gef",
+    "feedId": "11017",
+    "sourceDate": "2024-12-19T15:19:58.555Z",
+    "id": "gef-11017",
+    "name": "Supporting the Implementation of the National Action Plan on Marine Plastic Litter in the context of Green Recovery post-COVID 19 in Viet Nam",
+    "beneficiaries": [
+      {
+        "iso2": "VN",
+        "name": "Viet Nam",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme",
+        "category": "other"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "International Waters"
+      }
+    ],
+    "status": "on_going",
+    "budget": 12136000,
+    "isGlobal": false,
+    "url": "https://www.thegef.org/projects-operations/projects/11017"
+  },
+  {
+    "type": "gef",
+    "feedId": "10547",
+    "sourceDate": "2024-12-19T15:19:58.555Z",
+    "id": "gef-10547",
+    "name": "Reduce marine plastics and plastic pollution in Latin American and Caribbean cities through a circular economy approach",
+    "beneficiaries": [
+      {
+        "iso2": "CO",
+        "name": "Colombia",
+        "countryRegionUn": "grulac",
+        "isDeveloping": false,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "JM",
+        "name": "Jamaica",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "PA",
+        "name": "Panama",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "United Nations Environment Programme (UNEP)",
+        "category": "united nations",
+        "aliases": [
+          "United Nations Environment Programme"
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "name": "International Waters"
+      },
+      {
+        "name": "Chemicals and Waste"
+      }
+    ],
+    "status": "on_going",
+    "budget": 42407240,
+    "isGlobal": false,
+    "url": "https://www.thegef.org/projects-operations/projects/10547"
+  },
+  {
+    "type": "gef",
+    "feedId": "10546",
+    "sourceDate": "2024-12-19T15:19:58.555Z",
+    "id": "gef-10546",
+    "name": "Plastik Sulit: Accelerating Circular Economy for Difficult Plastics in Indonesia",
+    "beneficiaries": [
+      {
+        "iso2": "ID",
+        "name": "Indonesia",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "Asian Development Bank, The",
+        "category": "international financial institution",
+        "aliases": [
+          "Asian Development Bank"
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "name": "International Waters"
+      },
+      {
+        "name": "Chemicals and Waste"
+      }
+    ],
+    "status": "on_going",
+    "budget": 68873222,
+    "isGlobal": false,
+    "url": "https://www.thegef.org/projects-operations/projects/10546"
+  },
+  {
+    "type": "gef",
+    "feedId": "10401",
+    "sourceDate": "2024-12-19T15:19:58.555Z",
+    "id": "gef-10401",
+    "name": "Establishing a circular economy framework for the plastics sector in Ghana",
+    "beneficiaries": [
+      {
+        "iso2": "GH",
+        "name": "Ghana",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "United Nations Industrial Development Organization",
+        "category": "other"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "International Waters"
+      },
+      {
+        "name": "Chemicals and Waste"
+      }
+    ],
+    "status": "on_going",
+    "budget": 88923668,
+    "isGlobal": false,
+    "url": "https://www.thegef.org/projects-operations/projects/10401"
+  },
+  {
+    "type": "gef",
+    "feedId": "9681",
+    "sourceDate": "2024-12-19T15:19:58.555Z",
+    "id": "gef-9681",
+    "name": "Addressing Marine Plastics - A Systemic Approach",
+    "beneficiaries": [],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "United Nations Environment Programme (UNEP)",
+        "category": "united nations",
+        "aliases": [
+          "United Nations Environment Programme"
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "name": "International Waters"
+      }
+    ],
+    "status": "on_going",
+    "budget": 12932645,
+    "isGlobal": true,
+    "url": "https://www.thegef.org/projects-operations/projects/9681"
+  }
+]

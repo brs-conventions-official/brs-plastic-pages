@@ -1,0 +1,703 @@
+[
+  {
+    "type": "unido",
+    "feedId": 102046,
+    "sourceDate": "2024-12-19T15:21:03.345Z",
+    "id": "unido-102046",
+    "name": "Plastics Manufacturing Industry in India",
+    "url": "https://open.unido.org/projects/IN/projects/102046",
+    "budget": 686364.8999999999,
+    "beneficiaries": [
+      {
+        "iso2": "IN",
+        "name": "India",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2010-10-21T22:00:00.000Z",
+    "endDate": "2014-05-30T22:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "url": "http://www.unido.org/",
+        "category": "united nations"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Creating Shared Prosperity"
+      }
+    ],
+    "donors": [
+      {
+        "name": "India",
+        "category": "Government",
+        "aliases": [
+          "India"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "unido",
+    "feedId": 105246,
+    "sourceDate": "2024-12-19T15:21:03.541Z",
+    "id": "unido-105246",
+    "name": "Phase-Out of HCFC-22 and HCFC-142b from the Manufacture of Extruded Polystyrene Panel at Al-Watania Plastics",
+    "description": "\nHCFC-22 and HCFC-142 used in the manufacture of extruded polystyrene boards at Al Watania Plastics will be phased out by converting to the HC technology. Immediate impact of the project is to phase-out the use of 137 MT of HCFC-22 and 205 MT of HCFC-142b by converting to the HC technology, thereby contributing to the HCFC phase-out in the XPS sector as a flagship project.  Accordingly it contributes to the country’s obligation to reduce HCFCs consumption by 10% in 2015.",
+    "url": "https://open.unido.org/projects/SA/projects/105246",
+    "budget": 695144.33,
+    "beneficiaries": [
+      {
+        "iso2": "SA",
+        "name": "Saudi Arabia",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2011-01-05T23:00:00.000Z",
+    "endDate": "2019-07-15T22:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "url": "http://www.unido.org/",
+        "category": "united nations"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Safeguarding the Environment"
+      }
+    ],
+    "donors": [
+      {
+        "name": "Montreal Protocol",
+        "category": "united nations",
+        "aliases": [
+          "Montreal Protocol"
+        ]
+      },
+      {
+        "name": "Japan",
+        "category": "Government"
+      }
+    ]
+  },
+  {
+    "type": "unido",
+    "feedId": 190110,
+    "sourceDate": "2024-12-19T15:21:03.744Z",
+    "id": "unido-190110",
+    "name": "Support for transitioning from conventional plastics to more environmentally sustainable alternatives",
+    "description": "\nIn order to reduce the amount of plastic leaking into the environment (including the marine environment) in South Africa, the project will support South Africa’s transition to more environmentally sustainable alternatives from conventional single-use plastics.\n\nThis will be achieved through the development of an Action Plan to strengthen the local industry for the manufacturing of alternatives (including, but not limited to bioplastics), and building up capacities for plastics recycling. The proposed project has the potential to reduce plastic leakage to the environment and unlock new economic opportunities - both of which are urgently needed for South Africa.\n\nThe project would consist of two components: one will support the identification and implementation of opportunities for sustainable alternative materials, including bioplastics, and the second will support the implementation of the Industry Waste Management Plan of the plastic packaging industry by building up the capacity and integration of the informal waste sector; with a view to enhance waste separation at source to increase the quality and amount of collected recyclables.",
+    "url": "https://open.unido.org/projects/ZA/projects/190110",
+    "budget": 1692508.4100000004,
+    "beneficiaries": [
+      {
+        "iso2": "ZA",
+        "name": "South Africa",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2019-06-06T22:00:00.000Z",
+    "endDate": "2024-01-28T23:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "url": "http://www.unido.org/",
+        "category": "united nations"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Safeguarding the Environment"
+      }
+    ],
+    "donors": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "category": "united nations",
+        "url": "http://www.unido.org",
+        "aliases": [
+          "United Nations Industrial Development Organization",
+          "UN INDUSTRIAL DEVELOPMENT ORGANIZATION",
+          "Regular Programme Of Technical Cooperation"
+        ]
+      },
+      {
+        "name": "Japan",
+        "category": "Government"
+      }
+    ]
+  },
+  {
+    "type": "unido",
+    "feedId": 190137,
+    "sourceDate": "2024-12-19T15:21:03.944Z",
+    "id": "unido-190137",
+    "name": "Study on available sustainable alternative materials to plastics, and innovative packaging and recycling technologies that meet market needs in Africa to reduce plastics leakages to the environment",
+    "description": "\nThis project is designed to finance a study, and herewith related consultation and dissemination activities, on identification of available sustainable alternative materials to plastics, and innovative packaging and recycling technologies to meet with market need in Africa to reduce plastics leakage to the environment including the marine environment.\n\nThe project will conduct 2 study streams that will merge into one at country levels on: 1. Identification of sustainable alternative materials to plastics, and innovative packaging and recycling technologies; and 2. Plastics value chain in the target countries and their regulatory frameworks. By running 2 study streams at the same time, the outcome would be linked to each other to identify the gaps between needs and supplies as well as opportunities and challenges in target countries. On the course of studies, consultation seminars and workshops will be organized which would work also for matchmaking purposes as well as awareness development towards reduction of marine plastic litter.\n\nTo this end, the project is expected to contribute to provide an overview of available technology options matching with local contexts and needs in order to reduce the amount of virgin plastic usage in packaging and single-use products in the target African countries.",
+    "url": "https://open.unido.org/projects/M2/projects/190137",
+    "budget": 345886.14,
+    "beneficiaries": [],
+    "startDate": "2019-07-16T22:00:00.000Z",
+    "endDate": "2022-11-07T23:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "url": "http://www.unido.org/",
+        "category": "united nations"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Safeguarding the Environment"
+      }
+    ],
+    "donors": [
+      {
+        "name": "Japan",
+        "category": "Government"
+      }
+    ]
+  },
+  {
+    "type": "unido",
+    "feedId": 190152,
+    "sourceDate": "2024-12-19T15:21:04.148Z",
+    "id": "unido-190152",
+    "name": "Supporting the promotion of circular economy practices on single-use plastic value chain",
+    "description": "\nThe project will support the initiative of the Government of Egypt to reduce plastic waste leaking into the environment, particularly by looking into product design stage of single-use plastic products including packaging based on circular economy practices. It will promote eco-design practices in industry and encourage to adopt greener material, products, and production process or greener technology as well as greener business models, with support of enabling policy, regulations or economic tools, while minimizing any adverse impact on the industry.",
+    "url": "https://open.unido.org/projects/EG/projects/190152",
+    "budget": 2849560.2399999998,
+    "beneficiaries": [
+      {
+        "iso2": "EG",
+        "name": "Egypt",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2019-06-06T22:00:00.000Z",
+    "endDate": "2026-03-30T22:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "url": "http://www.unido.org/",
+        "category": "united nations"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Safeguarding the Environment"
+      }
+    ],
+    "donors": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "category": "united nations",
+        "url": "http://www.unido.org",
+        "aliases": [
+          "United Nations Industrial Development Organization",
+          "UN INDUSTRIAL DEVELOPMENT ORGANIZATION",
+          "Regular Programme Of Technical Cooperation"
+        ]
+      },
+      {
+        "name": "Japan",
+        "category": "Government"
+      }
+    ]
+  },
+  {
+    "type": "unido",
+    "feedId": 190230,
+    "sourceDate": "2024-12-19T15:21:04.347Z",
+    "id": "unido-190230",
+    "name": "Integrated approach towards sustainable plastics use and (marine) litter prevention in Bangladesh",
+    "description": "\nIntegrated approach towards sustainable plastics use and (marine) litter prevention in Bangladesh",
+    "url": "https://open.unido.org/projects/BD/projects/190230",
+    "budget": 3606400,
+    "beneficiaries": [
+      {
+        "iso2": "BD",
+        "name": "Bangladesh",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2020-01-13T23:00:00.000Z",
+    "endDate": "2025-10-30T23:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "url": "http://www.unido.org/",
+        "category": "united nations"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Safeguarding the Environment"
+      }
+    ],
+    "donors": [
+      {
+        "name": "Norway",
+        "category": "Government"
+      }
+    ]
+  },
+  {
+    "type": "unido",
+    "feedId": 190244,
+    "sourceDate": "2024-12-19T15:21:04.557Z",
+    "id": "unido-190244",
+    "name": "Establishing a circular economy framework for the plastics sector in Ghana",
+    "description": "\nTo strengthen the national capacity in Ghana to transition to a circular economy that facilitates sustainable plastics management",
+    "url": "https://open.unido.org/projects/GH/projects/190244",
+    "budget": 7199059.5600000005,
+    "beneficiaries": [
+      {
+        "iso2": "GH",
+        "name": "Ghana",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2020-01-29T23:00:00.000Z",
+    "endDate": "2026-06-30T22:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "url": "http://www.unido.org/",
+        "category": "united nations"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Safeguarding the Environment"
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "unido",
+    "feedId": 210184,
+    "sourceDate": "2024-12-19T15:21:04.761Z",
+    "id": "unido-210184",
+    "name": "Promoting sustainable plastic value chains through circular economy practices",
+    "description": "\nThe project will demonstrate the benefit of adopting circular economy practices and resource efficient production on plastic value chains, while contributing to reducing plastic waste leaking to the environment..",
+    "url": "https://open.unido.org/projects/NG/projects/210184",
+    "budget": 1904623.05,
+    "beneficiaries": [
+      {
+        "iso2": "NG",
+        "name": "Nigeria",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2021-09-15T22:00:00.000Z",
+    "endDate": "2025-03-06T23:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "url": "http://www.unido.org/",
+        "category": "united nations"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Safeguarding the Environment"
+      }
+    ],
+    "donors": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "category": "united nations",
+        "url": "http://www.unido.org",
+        "aliases": [
+          "United Nations Industrial Development Organization",
+          "UN INDUSTRIAL DEVELOPMENT ORGANIZATION",
+          "Regular Programme Of Technical Cooperation"
+        ]
+      },
+      {
+        "name": "Japan",
+        "category": "Government"
+      }
+    ]
+  },
+  {
+    "type": "unido",
+    "feedId": 220138,
+    "sourceDate": "2024-12-19T15:21:04.961Z",
+    "id": "unido-220138",
+    "name": "Promoting plastic circular economy in Nigeria",
+    "description": "\nThis action intends to develop enabling environment to nurture circular economy practices in industry along with plastic value chains in Nigeria. It is expected that circular economy principles and practices are integrated into necessary policy and regulations so that effective implementation of sustainable plastic life cycle management, including the Extended Producer Responsibility (EPR) scheme, is ensured in industry along with (single use) plastic value chains.",
+    "url": "https://open.unido.org/projects/NG/projects/220138",
+    "budget": 18913.78,
+    "beneficiaries": [
+      {
+        "iso2": "NG",
+        "name": "Nigeria",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2022-08-15T22:00:00.000Z",
+    "endDate": "2024-01-28T23:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "url": "http://www.unido.org/",
+        "category": "united nations"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Safeguarding the Environment"
+      }
+    ],
+    "donors": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "category": "united nations",
+        "url": "http://www.unido.org",
+        "aliases": [
+          "United Nations Industrial Development Organization",
+          "UN INDUSTRIAL DEVELOPMENT ORGANIZATION",
+          "Regular Programme Of Technical Cooperation"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "unido",
+    "feedId": 230062,
+    "sourceDate": "2024-12-19T15:21:05.155Z",
+    "id": "unido-230062",
+    "name": "Circular solutions to plastic pollution in Morocco",
+    "description": "\nUnder the larger GEF 8 Plastic Integrated Program, this child project will complement Morocco’s existing commitment to the systematic transition from the current linear economy model of plastics to a circular economy model.\n\nPrimarily, it will support upstream solutions focused on changing materials used and exploring alternatives, an approach that aims at instigating a paradigm shift, whereby the new norm is the use of recycled plastic over virgin plastic. The impact of the importation of plastics will be tackled through the enforcement of stricter regulations with respect to single-use plastics and pollutants.\n\nThe project will support the Moroccan plastics industry who are ready to comply, stimulating their engagement to anticipate the need for highly recyclable materials. Partnerships with existing UNIDO implemented projects in Morocco are expected to bring public-private, cross-sector, interagency collaborations, and additional innovative financing.\nThe actions will extend along the whole value chain, through the creation of standards to tackle pollutants in food and beverage plastics. Policy instruments will be revised, starting with already existing measures and ongoing work on the national waste legislation, thus supporting policy coherence across varying government agencies and business sectors. Ultimately, the efforts will lead to the establishment of Extended Producer Responsibility schemes, which will not only help tackle the downstream side of the plastic cycle, but investment would be unlocked from industry to support the recycling sector and encourage the establishment of local business and job creation.",
+    "url": "https://open.unido.org/projects/MA/projects/230062",
+    "budget": 200000,
+    "beneficiaries": [
+      {
+        "iso2": "MA",
+        "name": "Morocco",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2023-08-13T22:00:00.000Z",
+    "endDate": "2028-12-28T23:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "url": "http://www.unido.org/",
+        "category": "united nations"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Safeguarding the Environment"
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "umbrellaId": "gef-11197",
+    "umbrellaUrl": "https://www.worldwildlife.org/projects/circular-solutions-to-plastic-pollution-global-project"
+  },
+  {
+    "type": "unido",
+    "feedId": 230065,
+    "sourceDate": "2024-12-19T15:21:05.349Z",
+    "id": "unido-230065",
+    "name": "Circular Solutions to Plastic Pollution in the Philippines",
+    "description": "\n..Circular Solution to Plastic Pollution in the Philippines is a child project under the GEF IP on Circular Solution to Plastic Pollution. The aim of the project is to create sustainable policy and resource efficient systems to address the plastic value chain in the Philippines.",
+    "url": "https://open.unido.org/projects/PH/projects/230065",
+    "budget": 200000,
+    "beneficiaries": [
+      {
+        "iso2": "PH",
+        "name": "Philippines",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2023-07-20T22:00:00.000Z",
+    "endDate": "2031-08-30T22:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "url": "http://www.unido.org/",
+        "category": "united nations"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Safeguarding the Environment"
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "umbrellaId": "gef-11197",
+    "umbrellaUrl": "https://www.worldwildlife.org/projects/circular-solutions-to-plastic-pollution-global-project"
+  },
+  {
+    "type": "unido",
+    "feedId": 230071,
+    "sourceDate": "2024-12-19T15:21:05.551Z",
+    "id": "unido-230071",
+    "name": "Circular solutions to plastic pollution in South Africa",
+    "description": "\nCircular solutions to plastic pollution in South Africa is a Child project of the GEF's Integrated Program of Circular solutions to plastic pollution. It will focus on upstream and midstream of plastic packaging value chains.",
+    "url": "https://open.unido.org/projects/ZA/projects/230071",
+    "budget": 200000,
+    "beneficiaries": [
+      {
+        "iso2": "ZA",
+        "name": "South Africa",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2023-06-29T22:00:00.000Z",
+    "endDate": "2031-08-30T22:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "url": "http://www.unido.org/",
+        "category": "united nations"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Safeguarding the Environment"
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "umbrellaId": "gef-11197",
+    "umbrellaUrl": "https://www.worldwildlife.org/projects/circular-solutions-to-plastic-pollution-global-project"
+  },
+  {
+    "type": "unido",
+    "feedId": 230080,
+    "sourceDate": "2024-12-19T15:21:05.748Z",
+    "id": "unido-230080",
+    "name": "Operationalizing and implementing circular economy solutions to minimize plastic waste and reduce plastic pollution from food and beverage packaging in India",
+    "description": "\nUnder the GEF8 Integrated Programme on \"circular solutions to plastics pollution', this joint UNEP (lead) UNIDO child project aims to operationalize and implement circular solutions to plastics pollution arising from food and beverage packaging in India..",
+    "url": "https://open.unido.org/projects/IN/projects/230080",
+    "budget": 60000,
+    "beneficiaries": [
+      {
+        "iso2": "IN",
+        "name": "India",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2023-08-31T22:00:00.000Z",
+    "endDate": "2029-07-15T22:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "url": "http://www.unido.org/",
+        "category": "united nations"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Safeguarding the Environment"
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "umbrellaId": "gef-11197",
+    "umbrellaUrl": "https://www.worldwildlife.org/projects/circular-solutions-to-plastic-pollution-global-project"
+  },
+  {
+    "type": "unido",
+    "feedId": 230301,
+    "sourceDate": "2024-12-19T15:21:05.947Z",
+    "id": "unido-230301",
+    "name": "Development and demonstration of innovative technologies for value-adding applications of plastic waste from Indian paper mills in rubber and other industries (Paper phase III)",
+    "description": "\nSince 2019, UNIDO has implemented a project titled ‘Firm-level demonstration of technologies and productivity enhancement measures for the Indian pulp and paper industry’, wherein innovative technologies for productivity enhancements have been adapted to Indian process conditions and demonstrated through transportable pilot units in paper mills across the country. During implementation, industry stakeholders expressed the need for a viable solution to address the issue of plastic wastes generated in recycled-fibre based mills. UNIDO has undertaken preliminary experiments in collaboration with subject matter experts to explore potential technology options for utilization of plastic waste for application of generated by-products in other industries and energy generation.\n\nThe proposed project aims to develop and demonstrate a potential solution to this problem related to disposal/utilization of plastic wastes from paper mills. The objective of the project is to establish a techno-economically viable option for the utilization of plastic wastes generated in recycled fibre-based paper mills through pyrolytic thermochemical conversion and explore value-adding applications in allied industries, such as rubber, for resultant by-products as a way of improving resource efficiency and productivity in target industries. The main focus of the project is to facilitate bench-level experiments and pilot trials to demonstrate and optimize process parameters for (i) thermochemical conversion of plastic waste generated in paper mills into oil, char and syn gases through thermo-chemical treatment as well as to explore potential for (ii) utilization of the resultant oil as diesel grade oil and/or as a boiler fuel  for blending applications along with diesel fuel in paper mills; (iii) utilization of the resultant char as replacement of carbon black in rubber industries as a compounding agent (or similar applications); and (iv) utilization of resultant syn gaseous fractions for heating of thermochemical conversion reactor for sustaining the energy requirement of the process.\n\nThe demonstrations under the project are expected to provide a sustainable solution for the utilization of plastic wastes generated in recycled fibre-based paper mills. The pyrolytic treatment of these plastic wastes would provide an additional energy source for paper mills, thereby enhancing their resource efficiency, and also reduce dependence on fossil-based energy as well as incineration/landfilling as a disposal strategy. Further, the demonstrations are expected to increase productivity of the rubber production process, by encouraging industrial symbiosis and making use of char produced through pyrolytic conversion of plastic wastes as a compounding agent in rubber industries.",
+    "url": "https://open.unido.org/projects/IN/projects/230301",
+    "budget": 22197.56,
+    "beneficiaries": [
+      {
+        "iso2": "IN",
+        "name": "India",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2024-02-11T23:00:00.000Z",
+    "endDate": "2027-06-29T22:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "url": "http://www.unido.org/",
+        "category": "united nations"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Advancing Economic Competitiveness"
+      }
+    ],
+    "donors": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "category": "united nations",
+        "url": "http://www.unido.org",
+        "aliases": [
+          "United Nations Industrial Development Organization",
+          "UN INDUSTRIAL DEVELOPMENT ORGANIZATION",
+          "Regular Programme Of Technical Cooperation"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "unido",
+    "feedId": 240010,
+    "sourceDate": "2024-12-19T15:21:06.140Z",
+    "id": "unido-240010",
+    "name": "Promoting circular economy and resource efficiency in plastic value chains in Fiji",
+    "description": "\nThis project will contribute to Fiji’s inclusive and sustainable growth through promotion of circular economy and resource efficiency practices for private sectors and mitigate impact of plastic pollution and climate change and contribute to implementation of the 20-Year National Development Plan of Fiji.",
+    "url": "https://open.unido.org/projects/FJ/projects/240010",
+    "budget": 20510.54,
+    "beneficiaries": [
+      {
+        "iso2": "FJ",
+        "name": "Fiji",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      }
+    ],
+    "startDate": "2024-04-22T22:00:00.000Z",
+    "endDate": "2027-03-29T22:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "url": "http://www.unido.org/",
+        "category": "united nations"
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Safeguarding the Environment"
+      }
+    ],
+    "donors": [
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "category": "united nations",
+        "url": "http://www.unido.org",
+        "aliases": [
+          "United Nations Industrial Development Organization",
+          "UN INDUSTRIAL DEVELOPMENT ORGANIZATION",
+          "Regular Programme Of Technical Cooperation"
+        ]
+      }
+    ]
+  }
+]

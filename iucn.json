@@ -1,0 +1,864 @@
+[
+  {
+    "type": "iucn",
+    "id": "iucn-P03025",
+    "url": "https://open.iucn.org/projects/P03025",
+    "feedId": "P03025",
+    "sourceDate": "2024-12-19T15:20:58.857Z",
+    "name": "Plastic Waste Free Islands",
+    "description": "Review and enhance waste management strategies, legal and policy tools, community and private sector engagement and capacity building on best practice approaches to address the problem of marine plastic pollution in Caribbean and Pacific SIDS.",
+    "budget": 7181084,
+    "beneficiaries": [
+      {
+        "iso2": "GD",
+        "name": "Grenada",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "WS",
+        "name": "Samoa",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "AG",
+        "name": "Antigua and Barbuda",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "VU",
+        "name": "Vanuatu",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "LC",
+        "name": "Saint Lucia",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "FJ",
+        "name": "Fiji",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      }
+    ],
+    "startDate": "2018-12-10T00:00:00.000Z",
+    "endDate": "2023-08-31T00:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "International Union for Conservation of Nature (IUCN)",
+        "url": "https://www.iucn.org",
+        "category": "international"
+      }
+    ],
+    "donors": [
+      {
+        "name": "Norwegian Agency for Development Cooperation (NORAD)",
+        "category": "Government agency",
+        "aliases": [
+          "Norwegian Ag Dev Coop",
+          "Norwegian Agency for International Development",
+          "Norwegian Agency for Development Cooperation"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "iucn",
+    "id": "iucn-P02639",
+    "url": "https://open.iucn.org/projects/P02639",
+    "feedId": "P02639",
+    "sourceDate": "2024-12-19T15:20:59.062Z",
+    "name": "SIDA Plastics Programme of work (MARPLASTICCs)",
+    "description": "SIDA-funded programme of work on the problem of plastic pollution in the marine environment.  The project will work on two priority regions: East Africa and Asia-Pacific.\nThe project has four components:\n1. Understanding the state and impact of plastic pollution in the Indian Ocean and Asia Pacific Regions\n2. Local and Regional capacity building to facilitate National Action Plans\n3. Supporting national and regional policy frameworks and legislative reform processes to address plastic pollution\n4. Engaging and mobilizing business actors in the support of effective management and reduction of plastic pollution",
+    "budget": 4682016,
+    "beneficiaries": [],
+    "startDate": "2017-10-01T00:00:00.000Z",
+    "endDate": "2022-06-30T00:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "International Union for Conservation of Nature (IUCN)",
+        "url": "https://www.iucn.org",
+        "category": "international"
+      }
+    ],
+    "unRegions": [
+      "asia-pacific",
+      "other"
+    ],
+    "feedRegions": [
+      "Asia Region",
+      "East and South Africa Region"
+    ],
+    "donors": [
+      {
+        "name": "Swedish International Development Cooperation Agency (SIDA)",
+        "category": "Government agency",
+        "aliases": [
+          "SWEDISH INT'L DEVELOPMENT COOPERATION",
+          "Swedish International Development Cooperation Agen"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "iucn",
+    "id": "iucn-P04357",
+    "url": "https://open.iucn.org/projects/P04357",
+    "feedId": "P04357",
+    "sourceDate": "2024-12-19T15:20:59.245Z",
+    "name": "AFRIPAC: Effective plastic treaty capacity building:  Africa and African SIDS",
+    "description": "This project addresses (a) global commitments to end plastic pollution strengthened (b) national action plans and policy strengthened and (c) strengthening the global policy links to the national and regional instruments to prevent marine litter by ensuring they are in sync with each other.",
+    "budget": 2231938,
+    "beneficiaries": [],
+    "startDate": "2022-11-01T00:00:00.000Z",
+    "endDate": "2024-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "International Union for Conservation of Nature (IUCN)",
+        "url": "https://www.iucn.org",
+        "category": "international"
+      }
+    ],
+    "unRegions": [
+      "other"
+    ],
+    "feedRegions": [
+      "West and Central Africa Region"
+    ],
+    "donors": [
+      {
+        "name": "Norwegian Agency for Development Cooperation (NORAD)",
+        "category": "Government agency",
+        "aliases": [
+          "Norwegian Ag Dev Coop",
+          "Norwegian Agency for International Development",
+          "Norwegian Agency for Development Cooperation"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "iucn",
+    "id": "iucn-P04015",
+    "url": "https://open.iucn.org/projects/P04015",
+    "feedId": "P04015",
+    "sourceDate": "2024-12-19T15:20:59.437Z",
+    "name": "Closing the Caribbean Plastic Tap",
+    "description": "The Caribbean is home to more than 700 islands and coastal countries that are connected by a shared resource - the Caribbean Sea, with 10% of the world’s coral reefs, 1,400 species of fish and marine mammals, and extensive coastal mangroves. This region is an important biodiversity hotspot due to the high endemism on each island . However, from the Atlantic Ocean to the Gulf of Mexico, valuable coastal and marine resources are under increasing threat from land and marine-based sources of pollution.\n\nPollution from solid waste, and in particular from plastics, has emerged as one of the greatest global challenges.  And for a region like the Caribbean, whose prosperity depends on its crystal-clear waters and clean beaches, there is a need for immediate action. \n\nThe purpose of this project is to demonstrate effective, quantifiable solutions to address recyclable and unrecyclable plastic waste (the biggest fraction of plastic waste generated) and plastic leakage from Caribbean Small Island Developing States (SIDS)",
+    "budget": 1929954,
+    "beneficiaries": [
+      {
+        "iso2": "GD",
+        "name": "Grenada",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "AG",
+        "name": "Antigua and Barbuda",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "LC",
+        "name": "Saint Lucia",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "VC",
+        "name": "Saint Vincent and the Grenadines",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "KN",
+        "name": "Saint Kitts and Nevis",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      }
+    ],
+    "startDate": "2023-09-06T00:00:00.000Z",
+    "endDate": "2026-09-06T00:00:00.000Z",
+    "status": "on_going",
+    "leadUnit": "ORMACC - Biodiversity and Rights (OR)",
+    "implementedBy": [
+      {
+        "name": "International Union for Conservation of Nature (IUCN)",
+        "url": "https://www.iucn.org",
+        "category": "international"
+      }
+    ],
+    "donors": [
+      {
+        "name": "Agenzia Italiana per la Cooperazione allo Sviluppo",
+        "category": "Government agency",
+        "aliases": [
+          "Agenzia Italiana per la Cooperazione allo Sviluppo"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "iucn",
+    "id": "iucn-P03102",
+    "url": "https://open.iucn.org/projects/P03102",
+    "feedId": "P03102",
+    "sourceDate": "2024-12-19T15:20:59.628Z",
+    "name": "Plastic Free Islands in the Mediterranean",
+    "description": "This project seeks to address the little-address problem of plastic waste leakage from island states. Over 10 million tons of plastic waste enters the ocean every year . Many efforts on minimising and mitigating impacts of plastic waste are focused on tackling the sources on continental land, rivers and coastal areas. To date, not much attention has been put on islands.\n\nIUCN’s Global Marine and Polar Programme has been operating the Close the Plastic Tap Initiative since 2014 under five main pillars: knowledge, capacity, policy, business and innovation. This project crosscuts across these pillars to address the issue of plastic waste leakage from islands.\nThe purpose of this project is to demonstrate effective, quantifiable solutions to addressing plastic leakage from islands in Mediterranean countries. Key stakeholders from governments, private sector and civil society, as well as local men and women, united in a vibrant learning and leadership network, will co-generate and demonstrate demand-responsive solutions to plastic waste incorporating policy, business operations, and citizen behaviour changes. Evidence and lessons will be packaged into a scalable ‘blueprint’ for use beyond the initial 2 targeted islands in order to touch other places in the Mediterranean. Key regional bodies will be equipped with the blueprint and supported to identify further opportunities to grow its application.\nThe project outcomes are:\n1.\tTarget islands identified and input-output flow of plastic waste is quantified on each;\n2.\tThree plastic waste-related sectors (tourism, fisheries, waste management) in three islands in the Mediterranean implement plastic leakage reduction measures within the project timeframe; and\n3.\tRegional Mediterranean partners (e.g. Plastic Pollution Coalition, CSTI, Medpol) are equipped with an island plastic management blueprint to facilitate replication beyond the three target islands.",
+    "budget": 616296,
+    "beneficiaries": [
+      {
+        "iso2": "CY",
+        "name": "Cyprus",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": false,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "ES",
+        "name": "Spain",
+        "countryRegionUn": "weog",
+        "isDeveloping": false,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2019-01-15T00:00:00.000Z",
+    "endDate": "2022-12-31T00:00:00.000Z",
+    "status": "completed",
+    "leadUnit": "Nature Conservation and Food Production (ES)",
+    "implementedBy": [
+      {
+        "name": "International Union for Conservation of Nature (IUCN)",
+        "url": "https://www.iucn.org",
+        "category": "international"
+      }
+    ],
+    "unRegions": [
+      "other"
+    ],
+    "feedRegions": [
+      "Mediterranean Region"
+    ],
+    "donors": [
+      {
+        "name": "Fondation Didier et Martine Primat",
+        "category": "non-governmental organization",
+        "aliases": [
+          "Fondation Didier et Martine Primat"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "iucn",
+    "id": "iucn-P03681",
+    "url": "https://open.iucn.org/projects/P03681",
+    "feedId": "P03681",
+    "sourceDate": "2024-12-19T15:20:59.828Z",
+    "name": "Strategic Partnership between PROVN & IUCN in Plastic Waste Management",
+    "description": "Purpose: The goal of this 3-year PRO VN partner with IUCN is to develop and implement\nfield projects as operational pilots for circular economy model\nObjective :\n• Identify, develop and implement pilot local initiatives of mutual interest and benefits in\nplastic waste management, particularly on circular economy project;\n• Promote good practices and lesson learn into policy recommendation;\n• Provide capacity building support on sustainable business practices; \nSpecific area of collaboration: \nThese projects can be integrated with on-going projects/initiatives that IUCN has been\nimplementing:\n1. Pilot project/ field activities\n• Hoi An City Circular Economy project – scale up from Cham island;\n• Plastic pollution: shoreline survey monitoring and assessment (12 sites a long the coast\nof Viet Nam with extension to more sites);\n2. Policy advocacy/Research/Study\n• EPR – Policy Brief and communication and advocacy materials;\n• Policy brief on Export and Import of plastic waste issues by advocating for ratification of\nthe Basel Ban Amendment and improving the national regulations in Law on Environment\nProtection revision; Organize the Policy Dialogue at ASEAN Submit and ASEAN People\nForum on Export and Import of plastic waste issues.\n• Analysis the capacity of the existing recycle industries;\n• Improve quality of recycle plastic materials within Viet Nam;\n3. Capacity building\n• Plastic Leak Project (PLP)\n• Sharing Hotspot analysis",
+    "budget": 373709,
+    "beneficiaries": [
+      {
+        "iso2": "VN",
+        "name": "Viet Nam",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2020-09-01T00:00:00.000Z",
+    "endDate": "2024-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "leadUnit": "Vietnam Programme Coordination (VN)",
+    "implementedBy": [
+      {
+        "name": "International Union for Conservation of Nature (IUCN)",
+        "url": "https://www.iucn.org",
+        "category": "international"
+      }
+    ],
+    "donors": [
+      {
+        "name": "Pro Viet Nam-Packaging Recycling Limited Liability",
+        "category": "private sector",
+        "aliases": [
+          "Pro Viet Nam-Packaging Recycling Limited Liability"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "iucn",
+    "id": "iucn-P02572",
+    "url": "https://open.iucn.org/projects/P02572",
+    "feedId": "P02572",
+    "sourceDate": "2024-12-19T15:21:00.026Z",
+    "name": "F2PA BeMed: Closing the Plastic Tap",
+    "description": "Focusing on the Mediterranean basin, IUCN would like to engage new effort towards closing the plastic tap and recovering healthy oceans. Hence, the main objective of this project is to gather information on six fundamental questions:\n1. How much plastic actually is measured in the Mediterranean Sea (Med)?\n2. How much plastic is expected to enter the Med based on a plastic footprint modeling?\n3. What are the economic consequences of plastic pollution for the Med. region?\n4. What are the prevention and mitigation policies in place? Are they efficient?\n5. Which are the main local prevention and remediation initiatives? How to evaluate projects and focus on what really matters?\n6. Where do the key industrial sector contribute? How can industry innovate and find preventive solutions?\nIn accordance with BeMed objectives, and in collaboration with BeMed Partners, the project will seek at\n-  relating the information obtains through the model study with the on-the-ground research conducted by BeMed Partners (Tara Expeditions and Surf Rider)\n- raising awareness of and build capacity on the issue of plastic pollution in the Mediterranean sea at local and national levels, in full synergy with BeMed partners relevant objectives and actions.",
+    "budget": 235785,
+    "beneficiaries": [],
+    "startDate": "2019-01-01T00:00:00.000Z",
+    "endDate": "2023-03-31T00:00:00.000Z",
+    "status": "completed",
+    "leadUnit": "Nature Conservation and Food Production (ES)",
+    "implementedBy": [
+      {
+        "name": "International Union for Conservation of Nature (IUCN)",
+        "url": "https://www.iucn.org",
+        "category": "international"
+      }
+    ],
+    "unRegions": [
+      "other"
+    ],
+    "feedRegions": [
+      "Mediterranean Region"
+    ],
+    "donors": [
+      {
+        "name": "Fondation Prince Albert II de Monaco",
+        "category": "non-governmental organization",
+        "aliases": [
+          "Fondation Prince Albert II de Monaco"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "iucn",
+    "id": "iucn-P03707",
+    "url": "https://open.iucn.org/projects/P03707",
+    "feedId": "P03707",
+    "sourceDate": "2024-12-19T15:21:00.237Z",
+    "name": "Enhancing circular economy model at local level and improving municipal plastic waste management practices and policies in Koh Libong sub-district, Trang province, Thailand",
+    "description": "The project will focus on capacity building and awareness raising of local community members and local authorities in implementation of community based waste management, especially plastic waste management, and policy development. Knowledge and experiences of IUCN implementing the project of community based waste management on Koh Yao Yai (Phang Nga) and MARPLASTICCs (Ranong) will be applied in Koh Libong. Policy and Sub-District Administration’s regulation development will contribute to ensure that all types of waste will be managed properly based on the budget allocation of the local authority. Past and ongoing knowledge and experiences in implementing waste management in Koh Libong funded by other donors will be integrated and shared with the rest of communities. In addition, local recyclers and small recycle business owners in the sub-district and neighboring areas will be prioritized in developing potential circular economy model and local recycle rate improvement. Main methodologies to engage these key actors will be meeting, consultation workshops, capacity building and training events. Local shops, restaurants, tourism business and tour operators in the target areas will be engaged in the project in order to improve their waste management system, reduction of plastic waste and prevent the leakage from business sectors into the environment. Waste management policies at sub-district level will provide an enabling framework for all related stakeholders to ensure that their collective actions will lead to a better recycle rate, waste collection systems, and the reduction of waste at dump sites/ landfills in the sub-district boundary. As a consequence, negative impacts from mismanaged waste to the ecosystems in Koh Libong will be reduced accordingly.",
+    "budget": 191942,
+    "beneficiaries": [
+      {
+        "iso2": "TH",
+        "name": "Thailand",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2020-11-02T00:00:00.000Z",
+    "endDate": "2023-07-31T00:00:00.000Z",
+    "status": "completed",
+    "leadUnit": "Thailand Country Programme (TH)",
+    "implementedBy": [
+      {
+        "name": "Department of National Parks, Wildlife and Plant Conservation (Thailand)",
+        "category": "Government agency",
+        "aliases": [
+          "Department of National Parks, Wildlife and Plant Conservation"
+        ]
+      }
+    ],
+    "donors": [
+      {
+        "name": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+        "category": "Government agency",
+        "aliases": [
+          "Deutsche Gesellschaft für Internationale Zusammena"
+        ]
+      },
+      {
+        "name": "Accor",
+        "category": "private sector",
+        "aliases": [
+          "Accor"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "iucn",
+    "id": "iucn-P03688",
+    "url": "https://open.iucn.org/projects/P03688",
+    "feedId": "P03688",
+    "sourceDate": "2024-12-19T15:21:00.436Z",
+    "name": "Plastic waste and leakage in West Africa reduced and mainstreamed through civil society participation in Circular Economy Initiatives",
+    "description": "The project will promote the concept of a circular economy in the context of plastic waste in coastal and marine environment. The project intends to involve the civil society in allocating 6 grants for plastic waste recycling projects to local NGOs/CSOs in two locations in West Africa.",
+    "budget": 167057,
+    "beneficiaries": [
+      {
+        "iso2": "SN",
+        "name": "Senegal",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2020-11-15T00:00:00.000Z",
+    "endDate": "2023-07-30T00:00:00.000Z",
+    "status": "completed",
+    "leadUnit": "Coastal and Marine Programme",
+    "implementedBy": [
+      {
+        "name": "International Union for Conservation of Nature (IUCN)",
+        "url": "https://www.iucn.org",
+        "category": "international"
+      }
+    ],
+    "donors": [
+      {
+        "name": "Bureau of Oceans and International Environmental and Scientific Affairs (US)",
+        "category": "Government agency",
+        "aliases": [
+          "US Department of State, Bureau of Oceans and Inter"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "iucn",
+    "id": "iucn-P04049",
+    "url": "https://open.iucn.org/projects/P04049",
+    "feedId": "P04049",
+    "sourceDate": "2024-12-19T15:21:00.626Z",
+    "name": "Tackling marine plastics in Thailand: from community-based actions to policies - Phase 4",
+    "description": "The project’s phase 4 (2021– 2022) aims at achieving policy improvement, increase recycle rate and improving waste management systems at household and sub-district level that can be effectively managed locally in key strategic locations of Koh Yao District, Phang Nga province, which eventually reduce marine plastic pollution and catalyze key changes in local practices and reflection of national policy implementation on plastic waste management.",
+    "budget": 130914,
+    "beneficiaries": [
+      {
+        "iso2": "TH",
+        "name": "Thailand",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2022-02-01T00:00:00.000Z",
+    "endDate": "2023-06-30T00:00:00.000Z",
+    "status": "completed",
+    "leadUnit": "Thailand Country Programme (TH)",
+    "implementedBy": [
+      {
+        "name": "International Union for Conservation of Nature (IUCN)",
+        "url": "https://www.iucn.org",
+        "category": "international"
+      }
+    ],
+    "donors": [
+      {
+        "name": "International Union for Conservation of Nature (IUCN)",
+        "category": "non-governmental organization",
+        "url": "https://www.iucn.org/",
+        "aliases": [
+          "IUCN-US (501c3 organization)"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "iucn",
+    "id": "iucn-P02606",
+    "url": "https://open.iucn.org/projects/P02606",
+    "feedId": "P02606",
+    "sourceDate": "2024-12-19T15:21:00.818Z",
+    "name": "AFD FFW Marine plastics",
+    "description": "The project aim is to produce a status report on the marine plastic pollution situation (source, distribution, points of accumulation and impacts) and identification of mitigation actions along the African coast (Kenya, Tanzania, Mozambique, South Africa). The deliverables include: \n- A regional analysis of the plastic pollution by identifying the main hotspots \n- A guide of possible intervention to prevent hotspots around the plastic value chain \n- three case studies detailing the existing and performing local solutions to duplicate potentially along the plastic value chain",
+    "budget": 110641,
+    "beneficiaries": [
+      {
+        "iso2": "TZ",
+        "name": "United Republic of Tanzania",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2017-10-01T00:00:00.000Z",
+    "endDate": "2021-03-31T00:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "International Union for Conservation of Nature (IUCN)",
+        "url": "https://www.iucn.org",
+        "category": "international"
+      }
+    ],
+    "donors": [
+      {
+        "name": "Agence Française de Développement (AFD)",
+        "category": "Government agency",
+        "aliases": [
+          "Agence Française de Développement"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "iucn",
+    "id": "iucn-P03801",
+    "url": "https://open.iucn.org/projects/P03801",
+    "feedId": "P03801",
+    "sourceDate": "2024-12-19T15:21:01.012Z",
+    "name": "Building Political Support for IPBES Global Assessment Results in Vietnam, Thailand, and Bangladesh",
+    "description": "In 2019, IPBES published the Global Assessment on Biodiversity and Ecosystem Services.  The overriding message that the region’s rich biodiversity and ecosystems services provide vital support for human well-being and long-term development is particularly relevant to Asia’s fast growing economies, which to a large extent have been driven by the effectively unregulated use of natural resources.\nAsian countries increasingly recognize the costs and risks of a growth model that is based on unsustainable resources use.  The current coronavirus pandemic and strict new rules on the consumption of wildlife is just the latest example of this.  The impacts of climate change and linkages with biodiversity are increasingly recognized in international and national policy frameworks (e.g., NDCs, NBSAPs).  \nThe three focal countries, Vietnam, Thailand, and Bangladesh, were selected because of their economic and demographic size, global biodiversity significance, high levels of environmental stress, and opportunity for action.  In all three, there is growing public concern over water, air, and soil pollution.  Businesses are taking greater responsibility for their environmental impacts and are often ahead of governments, as demonstrated by their reaction to the marine plastics crisis.  In Vietnam, for example, 13 of the largest national and international beverage companies have formed a social enterprise to collect and recycle plastic bottles.\nGenerally speaking, all three countries have adequate environmental laws and regulations.  Now the challenge is to translate policy into action.  IUCN has long-established programs in Vietnam, Thailand, and Bangladesh and plays a lead role in assisting government with the preparation of environmental policies and laws.  All three countries are State members of IUCN.",
+    "budget": 91602,
+    "beneficiaries": [
+      {
+        "iso2": "TH",
+        "name": "Thailand",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "VN",
+        "name": "Viet Nam",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "BD",
+        "name": "Bangladesh",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2020-11-01T00:00:00.000Z",
+    "endDate": "2021-04-30T00:00:00.000Z",
+    "status": "completed",
+    "leadUnit": "Vietnam Programme Coordination (VN)",
+    "implementedBy": [
+      {
+        "name": "International Union for Conservation of Nature (IUCN)",
+        "url": "https://www.iucn.org",
+        "category": "international"
+      }
+    ],
+    "donors": [
+      {
+        "name": "Norwegian Environment Agency",
+        "category": "Government agency",
+        "aliases": [
+          "Norwegian Environment Agency"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "iucn",
+    "id": "iucn-P03877",
+    "url": "https://open.iucn.org/projects/P03877",
+    "feedId": "P03877",
+    "sourceDate": "2024-12-19T15:21:01.210Z",
+    "name": "Plastic Waste Management - Source-to-Sea Approach - Pilot project in Hoi An City, Quang Nam Province,  Vu Gia – Thu Bon River Basin, Viet Nam",
+    "description": "Hoi An is a provincial city in Quang Nam province, central Vietnam. The city consists of nine urban wards and four communes; including the Cham Islands with a total population of 152,160 and a total area of 61.71 km2 (Quang Nam People’s Committee, 2018). Hoi An City is an ancient town, named a National Cultural Heritage Site since 1985 and a UNESCO World Heritage City since 1999. \n\tThe failure of solid waste classification at sources in Viet Nam in general and in the number of pilot projects funded by both international and domestic sources in Hoi An point out one of the difficulties in the course of implementation: incompatibility between the existent collection and treatment facilities with the processing of separated waste. There is also a lack of funds for collection and disposal infrastructure investment. Failure of waste sorting and appropriate collection as well as treatment are problems in solid waste management. \nThe purpose of this pilot project is to test the full cycle steps of the source-to-sea approach by using the practical guidance and methods presented in Implementing the Source-to-Sea Approach: A Guide for Practitioners  and Framework for Marine Litter Prevention: Preventing Plastic Leakage from River Basins  . The pilot in the VG-TB River Basin focused on solid waste flows, in particular plastic leakage to rivers and coastal areas and will cover the all six steps: (1) Characterize; (2) Engage; (3) Diagnose; (4) Design; (5) Act; (6) Adapt;",
+    "budget": 80094,
+    "beneficiaries": [
+      {
+        "iso2": "VN",
+        "name": "Viet Nam",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2021-03-17T00:00:00.000Z",
+    "endDate": "2022-09-30T00:00:00.000Z",
+    "status": "completed",
+    "leadUnit": "Vietnam Programme Coordination (VN)",
+    "implementedBy": [
+      {
+        "name": "International Union for Conservation of Nature (IUCN)",
+        "url": "https://www.iucn.org",
+        "category": "international"
+      }
+    ],
+    "donors": [
+      {
+        "name": "Stockholm International Water Institute",
+        "category": "non-governmental organization",
+        "aliases": [
+          "Stockholm International Water Institute"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "iucn",
+    "id": "iucn-P04046",
+    "url": "https://open.iucn.org/projects/P04046",
+    "feedId": "P04046",
+    "sourceDate": "2024-12-19T15:21:01.405Z",
+    "name": "Seven Clean Seas x IUCN Thailand River Plastic Recovery System Phase 1",
+    "description": "Seven Clean Seas (SCS) is an Ocean Cleanup Organisation based in Singapore and is already active in Bintan, Indonesia. Since inception in 2018, SCS has recovered over 100,000kg of plastic pollution from the marine environment alone and is focusing on infrastructure and technology solutions to stop plastic reaching the ocean and scale impact. SCS has plan to recovering over 10,000,000 kilos of marine debris by 2025 from the top seven worst plastic polluted countries in the world. Since 2018, SCS invested in ocean clean-up operations, remote island infrastructure and innovative technology. Thailand is selected to pilot SCS River Clean Up System as a proof of concept which will enable the scale up of the technology globally across some of the world's most plastic polluted rivers, thus reducing the volume of plastic pollution which makes it to the marine environment.",
+    "budget": 68908,
+    "beneficiaries": [
+      {
+        "iso2": "TH",
+        "name": "Thailand",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2021-12-15T00:00:00.000Z",
+    "endDate": "2023-04-30T00:00:00.000Z",
+    "status": "completed",
+    "leadUnit": "Thailand Country Programme (TH)",
+    "implementedBy": [
+      {
+        "name": "Department of National Parks, Wildlife and Plant Conservation (Thailand)",
+        "category": "Government agency",
+        "aliases": [
+          "Department of National Parks, Wildlife and Plant Conservation"
+        ]
+      }
+    ],
+    "donors": [
+      {
+        "name": "Seven Clean Seas",
+        "category": "non-governmental organization",
+        "aliases": [
+          "Seven Clean Seas"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "iucn",
+    "id": "iucn-P03823",
+    "url": "https://open.iucn.org/projects/P03823",
+    "feedId": "P03823",
+    "sourceDate": "2024-12-19T15:21:01.589Z",
+    "name": "EUROPEAN CIRCULAR ECONOMY & MARINE POLICY WORK - 2021",
+    "description": "IUCN aims to inform EU policy decisions with the overall goal of conserving the integrity and diversity of nature in Europe, and ensuring the sustainable use of natural resources. In relation to circular economy, considering the pollution in the marine environment –where most waste found is plastic–, we should recognize that the loop both begins and ends in nature, and that the voice of nature must be better represented in the discussions on the circular economy.",
+    "budget": 63987,
+    "beneficiaries": [],
+    "startDate": "2021-01-01T00:00:00.000Z",
+    "endDate": "2022-12-31T00:00:00.000Z",
+    "status": "completed",
+    "leadUnit": "EURO - EU Policies (BE)",
+    "implementedBy": [
+      {
+        "name": "International Union for Conservation of Nature (IUCN)",
+        "url": "https://www.iucn.org",
+        "category": "international"
+      }
+    ],
+    "unRegions": [
+      "other"
+    ],
+    "feedRegions": [
+      "Europe Region"
+    ],
+    "donors": [
+      {
+        "name": "Principauté de Monaco",
+        "category": "Government",
+        "aliases": [
+          "Principauté de Monaco"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "iucn",
+    "id": "iucn-P03712",
+    "url": "https://open.iucn.org/projects/P03712",
+    "feedId": "P03712",
+    "sourceDate": "2024-12-19T15:21:01.784Z",
+    "name": "Extended Producer Responsibility (EPR) policy framework for accelerating transition to Circular Plastic Economy in South Africa",
+    "description": "The currently industry-operated voluntary EPR schemes are limited in their scope and coverage. The Department of Forestry, Fisheries and Environment (DFFE) is considering regulation for mandatory EPR for plastic packaging. However, the move to mandatory EPR has been significantly delayed over the last three years due to various socio-political reasons. DFFE is currently undertaking a new stakeholder engagement process, which takes an industry managed approach instead of a government-managed approach. While these developments are important, in order to ensure a greater adoption of the mechanism at a systemic level, there is a need for enhanced institutional capacity, an inclusive EPR development process and coordinated action within the government, as well as leveraging the capacity of non-governmental actors.",
+    "budget": 22627,
+    "beneficiaries": [
+      {
+        "iso2": "ZA",
+        "name": "South Africa",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2020-05-01T00:00:00.000Z",
+    "endDate": "2021-12-31T00:00:00.000Z",
+    "status": "completed",
+    "leadUnit": "ESARO South Africa Programme (ZA)",
+    "implementedBy": [
+      {
+        "name": "International Union for Conservation of Nature (IUCN)",
+        "url": "https://www.iucn.org",
+        "category": "international"
+      }
+    ],
+    "donors": [
+      {
+        "name": "Swedish Environmental Protection Agency",
+        "category": "Government agency",
+        "aliases": [
+          "Swedish Environmental Protection Agency"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "iucn",
+    "id": "iucn-P03663",
+    "url": "https://open.iucn.org/projects/P03663",
+    "feedId": "P03663",
+    "sourceDate": "2024-12-19T15:21:01.982Z",
+    "name": "Closing the Loop – Scaling up Innovation to Tackle Marine Plastic Pollution in Danang City",
+    "description": "Development of baseline report and provision of technical assistance to the city government to develop a City Action Plan addressing plastic waste pollution in the marine environment in Danang city, Vietnam under the Closing the Loop: Scaling up Innovation to Address Marine Plastic Pollution in ASEAN Cities.",
+    "budget": 21699,
+    "beneficiaries": [
+      {
+        "iso2": "VN",
+        "name": "Viet Nam",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2020-06-05T00:00:00.000Z",
+    "endDate": "2021-10-31T00:00:00.000Z",
+    "status": "completed",
+    "leadUnit": "Vietnam Programme Coordination (VN)",
+    "implementedBy": [
+      {
+        "name": "Ministry of Natural Resources and Environment, Viet Nam",
+        "category": "other"
+      }
+    ],
+    "donors": [
+      {
+        "name": "Institute for Global Environmental Strategies (IGES)",
+        "category": "non-governmental organization",
+        "aliases": [
+          "Institute for Global Environmental Strategies"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "iucn",
+    "id": "iucn-P03586",
+    "url": "https://open.iucn.org/projects/P03586",
+    "feedId": "P03586",
+    "sourceDate": "2024-12-19T15:21:02.172Z",
+    "name": "Harmonised Methods and Tools for Assessment of Mismanaged Plastic Waste and Plastic Leakage to the Environment in the ASEAN Region",
+    "description": "To take stock of different methodologies for quantifying plastics leakage and pollution and compile a toolkit that would help advise ASEAN member states on how to select based on their specific objectives. The stock-taking would be of existing global methodologies, and will provide a framework to categorize the metrics by objective, data requirements, capacity needed etc. This project is in Collaboration with the University of Leeds and Deltares.",
+    "budget": 21412,
+    "beneficiaries": [],
+    "startDate": "2020-07-01T00:00:00.000Z",
+    "endDate": "2021-03-31T00:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "International Union for Conservation of Nature (IUCN)",
+        "url": "https://www.iucn.org",
+        "category": "international"
+      }
+    ],
+    "unRegions": [
+      "asia-pacific"
+    ],
+    "feedRegions": [
+      "Asia Region"
+    ],
+    "donors": [
+      {
+        "name": "The World Bank Group",
+        "category": "united nations",
+        "aliases": [
+          "The World Bank"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "iucn",
+    "id": "iucn-P03920",
+    "url": "https://open.iucn.org/projects/P03920",
+    "feedId": "P03920",
+    "sourceDate": "2024-12-19T15:21:02.366Z",
+    "name": "Supporting waste management in Horton Plains National Park (HPNP) and Peak Wilderness Nature Reserve (PWNR)",
+    "description": "Waste management is an essential service to ensure the continuity of the conservation value of the Horton Plains National Park (HPNP) and Peak Wilderness Nature Reserve (PWNR). These two locations are managed by the Department of Wildlife Conservation (DWC) of the Government of Sri Lanka and known to have high visitor numbers. \nFor example, the PWNR is being visited by about 3 million visitors every year. The waste management has been a challenge due to resources and high visitation pressure. As such the HSBC Bank joined DWC with IUCN as the facilitator to provide support to manage waste in a timely manner. \nThe HSBC Bank also supported to maintain the “directional and technical information” boards at different locations of HPNP, in addition to the support for waste management. \n\nKey issues affecting the ecosystems of HPNP and PWNR based on preliminary work include the lack of: \na.\tLack of coordinated management systems for plastic and other waste \nb.\tNeed to take the bottles to the PWNR to carry water as safe drinking water is not available \nc.\tIn adequate knowledge on potential ecosystem damages due to waste related pollution among visitors\nd.\tUncontrolled visitation leading to high pressure in cleaning operations\n\nAs such, this short-term project was developed by the Department of Wildlife Conservation (DWC) and IUCN to develop an approach to ensure the long-term sustainability of the HPNP and PWNR conservational value by improving waste management and visitor information services.",
+    "budget": 16908,
+    "beneficiaries": [
+      {
+        "iso2": "LK",
+        "name": "Sri Lanka",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2021-04-01T00:00:00.000Z",
+    "endDate": "2022-01-31T00:00:00.000Z",
+    "status": "completed",
+    "leadUnit": "Sri Lanka Programme Coordination (LK)",
+    "implementedBy": [
+      {
+        "name": "Department of Wildlife Conservation (Sri Lanka)",
+        "category": "Government agency",
+        "aliases": [
+          "Department of Wildlife Conservation"
+        ]
+      }
+    ],
+    "donors": [
+      {
+        "name": "Hongkong & Shanghai Banking Corporation",
+        "category": "international financial institution",
+        "aliases": [
+          "Hongkong & Shanghai Banking Corporation"
+        ]
+      }
+    ]
+  }
+]

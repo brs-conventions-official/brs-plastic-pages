@@ -1,0 +1,239 @@
+[
+  {
+    "type": "worldbank",
+    "feedId": "P171269",
+    "id": "worldbank-P171269",
+    "sourceDate": "2024-12-19T15:21:06.397Z",
+    "name": "Plastic free Rivers and Seas for South Asia",
+    "description": "The objective of the Plastic Free Rivers and Seas for South Asia Project is to strengthen innovation and coordination of circular economy solutions to plastic pollution flowing into South Asian Seas. The Project has three components. Component 1. Supporting Competitive Block Grant Investments to Reduce Plastic Waste will identify, verify and invest in circular plastic economy solutions and facilitate the exchange of knowledge and awareness of these solutions. Subcomponent 1.1: Investing in Circular Solutions to Reduce Plastic Waste will support circular plastic economy solutions to reduce plastic waste by implementing a program of regional competitive block grant investments. Subcomponent 1.2: Promoting Knowledge Exchange and Awareness will facilitate the exchange of circular plastic economy knowledge between Eligible Regional Competitive Block Grant (RBG) Beneficiaries and selected South Asian countries and promotes awareness raising activities. 2. Leveraging Public and Private Sector Engagement and Solutions component will provide support to develop and/or improve national and regional plastic pollution mitigation strategies and action plans, policies and industry standards. Subcomponent 2.1: Enabling Policies, Standards, and Analytics will support the development of strategies, action plans, policies, and standards to harmonize plastic pollution mitigation measures through: (a) developing and implementing a multi-year plastic policy support program, working with leading universities and organizations; (b) developing a database for lifecycle analysis, data collection, and modeling related to plastic across selected industry value chains; and (c) supporting communication activities. Subcomponent 2.2: Enabling Regional Public and Private Engagement will support circular use of plastic in the economy through regional public-private collaboration and engagement in South Asia, including designing and organizing annual or more frequent meetings of representatives from public and private sector. 3. Strengthening Regional Integration Institutions component will strengthen regional organizations’ capacity to coordinate and to support their member-states to better deliver on solutions to mitigate plastic pollution that flows into rivers and seas across South Asia and transition to a more circular plastic economy. Subcomponent 3.1: Building South Asia Cooperative Environment Program’s (SACEP’s) Institutional Capacity will support SACEP’s ability to convene and coordinate with regional organizations, line ministries and governments, including to uniformly collect, analyze and interpret pollution data will better inform policy and decision making support for investment planning, design and implementation. Subcomponent 3.2: Project Management will support SACEP in the implementation and overall management of the Project.",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P171269",
+    "budget": 37000000,
+    "beneficiaries": [],
+    "startDate": "2020-05-29T00:00:00.000Z",
+    "endDate": "2025-07-31T00:00:00.000Z",
+    "status": "on_going",
+    "donors": [
+      {
+        "name": "The World Bank Group",
+        "url": "https://www.worldbank.org",
+        "category": "multilateral"
+      }
+    ],
+    "pdo": "To strengthen innovation and coordination of circular economy solutions to plastic pollution flowing into South Asian Seas",
+    "implementedBy": [
+      {
+        "name": "South Asia Co-operative Environment Programme (SACEP)",
+        "category": "non-governmental organization",
+        "aliases": [
+          "SACEP"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "worldbank",
+    "feedId": "P175659",
+    "id": "worldbank-P175659",
+    "sourceDate": "2024-12-19T15:21:06.397Z",
+    "name": "Southeast Asia Regional Program on Combating Marine Plastics (SEA-MaP)",
+    "description": "The development objective of Southeast Asia Regional Program on Combating Marine Plastics (SEA-MaP) Project for South East Asia Region is to reduce plastics consumption, increase recycling and minimize leakages to prevent land and sea based marine plastic pollution in Southeast Asia. This project has three components. 1) The first component, Strengthening Regional Policies and Institutions for Plastics Circularity, has the following sub-components: (i) Supporting Regional Policy Development, Harmonization, and Implementation; and (ii) Supporting Regional Collaboration and Strengthening Monitoring Capacity. 2) The second component, Establishing Regional Platforms to Promote Innovations, Knowledge, and Partnerships for Plastics Circularity, has the following sub-components: (i) Establishing a Regional Platform for Innovation and Investments; and (ii) Establishing a Regional Platform for Knowledge and Partnerships. 3) The third component, Project Management, aims to support strengthening of the ASEAN Secretariat (ASEC) in terms of project management, financial management (FM), procurement, and environment and social risk management.",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P175659",
+    "budget": 20000000,
+    "beneficiaries": [],
+    "startDate": "2022-06-22T00:00:00.000Z",
+    "endDate": "2027-03-31T00:00:00.000Z",
+    "status": "on_going",
+    "donors": [
+      {
+        "name": "The World Bank Group",
+        "url": "https://www.worldbank.org",
+        "category": "multilateral"
+      }
+    ],
+    "pdo": "Program Development Objective: To reduce plastics consumption, increase recycling and minimize leakages to prevent land and sea based marine plastic pollution in Southeast Asia.\n\nDevelopment Objectives for the ASEAN Project (Pillar 1): To strengthen plastics polices and regulatory frameworks and promote innovative solutions to help reduce plastic pollution in Southeast Asia.",
+    "implementedBy": [
+      {
+        "name": "ASEAN Secretariat, Sustainable Development Directorate",
+        "category": "other"
+      }
+    ]
+  },
+  {
+    "type": "worldbank",
+    "feedId": "P171644",
+    "id": "worldbank-P171644",
+    "sourceDate": "2024-12-19T15:21:06.397Z",
+    "name": "Yangtze River Protection and Ecological Restoration Program",
+    "description": "The development objective of the Yangtze River Protection and Ecological Restoration Program for China is to improve institutional coordination, enhance ecological protection and reduce water pollution loads in select regions of the Yangtze river basin. The program-for-results (PforR) results areas (RA) are the following: RA 1: improving institutions and innovations (provincial level); RA 2: advancing ecological protection through integrated river basin management (sub-basin level); and RA 3: reducing water pollution and transmission of plastic waste (county level).",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P171644",
+    "budget": 400000000,
+    "beneficiaries": [
+      {
+        "iso2": "CN",
+        "name": "China",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2021-12-17T00:00:00.000Z",
+    "endDate": "2027-06-30T00:00:00.000Z",
+    "status": "on_going",
+    "donors": [
+      {
+        "name": "The World Bank Group",
+        "url": "https://www.worldbank.org",
+        "category": "multilateral"
+      }
+    ],
+    "pdo": "To improve institutional coordination, enhance ecological protection and reduce water pollution loads in select regions of the Yangtze River Basin",
+    "implementedBy": [
+      {
+        "name": "Jiangxi Provincial Finance Department, Jiangxi Provincial Development and Reform Commission��, Hunan Provincial Finance Department, Hunan Provincial Development and Reform Commission",
+        "category": "other"
+      }
+    ]
+  },
+  {
+    "type": "worldbank",
+    "feedId": "P106857",
+    "id": "worldbank-P106857",
+    "sourceDate": "2024-12-19T15:21:06.397Z",
+    "name": "MY-CF-Kota Kinabalu Composting Project",
+    "description": "The objective of the Kota Kinabalu Composting Project for Malaysia is to avoid methane (a greenhouse gas) emissions from the Kayu Madang Sanitary Landfill in Telipok, Malaysia by diverting the municipal solid waste (MSW) to a sorting and composting plant, which will recover the recyclable portion of the waste and convert the highly biodegradable portion of the waste into marketable compost. Aerobic decomposition of the organic portion of MSW into reusable compost generates carbon dioxide (C02) instead of methane (Ch) that will have been generated as a result of the anaerobic decomposition of MSW disposed in a landfill. The project key indicators will be: (i) the amount of compost produced (tons/year), and (ii) the certified emission reduction (CER) credits created and traded annually (tons of COz-e). This clean development mechanism (CDM) project consists of two components: (a) the construction and operation of a sorting and composting facility; and (b) a carbon finance transaction. The first component of the project is involves construction of a 500 tons day capacity sorting and corn posting plant in Telipok, Sabah State of Malaysia. This plant will process MSW from the City of Kota Kinabalu and three neighboring districts (Kota Belud, Tuaran, and Penampang). Kota Kinabalu City Hall has agreed to provide Smart Recycling approximately 18 acres of land to set up and operate this plant within the Kayu Madang Sanitary Landfill site. Approximately 3.2 acres were designated for the sorting plant and administrative buildings, and the remaining area was conceived for the corn posting plant. The sorting plant started operation in April 2006, and the composting plant is expected to be constructed in 2008 and operational by April 2009. The second component of the project is World Bank managed Carbon Fund for Europe (CFE) will finance the purchase of CER credits resulting from avoided landfill gas production at the Kayu Madang Sanitary Landfill. The purchase will be a performance-based contract under which payments are triggered by successful verification of the reduction of methane emissions by an independent, accredited international entity called the Designated Operating Entity (DOE), under the rules of the Kyoto Protocol.",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P106857",
+    "budget": 0,
+    "beneficiaries": [
+      {
+        "iso2": "MY",
+        "name": "Malaysia",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2008-06-30T00:00:00.000Z",
+    "endDate": "2016-12-31T00:00:00.000Z",
+    "status": "completed",
+    "donors": [
+      {
+        "name": "The World Bank Group",
+        "url": "https://www.worldbank.org",
+        "category": "multilateral"
+      }
+    ],
+    "pdo": "The project development objective is to avoid methane (a greenhouse gas) emissions from the Kayu Madang Sanitary Landfill in Telipok, Malaysia by diverting the Municipal Solid Waste (MSW) to a sorting and composting plant, which will recover the recyclable portion of the waste and convert the highly biodegradable portion of the waste into marketable compost.  This objective will be facilitated through a Carbon Finance transaction between the World Bank and the project sponsor.  The key indicators will be: (i) the amount of compost produced (tons/year), and (ii) the CER credits created and traded annually (tons of CO2e).",
+    "implementedBy": [
+      {
+        "name": "MS Smart Recycling Sdn Bhd.",
+        "category": "other"
+      }
+    ]
+  },
+  {
+    "type": "worldbank",
+    "feedId": "P006555",
+    "id": "worldbank-P006555",
+    "sourceDate": "2024-12-19T15:21:06.397Z",
+    "name": "Second State Highway Management Project (Piaui, Tocantins, Maranhao)",
+    "description": "The Second State Highway Management (Maranhao, Piaui and Tocantins States) Project aims to check further deterioration of the state road networks and improve their serviceability. The project consists of three similar subprojects in the borrower states, each supported by a separate Bank loan. Each subproject includes: (a) a policy and institutional development program; (b) a rehabilitation and maintenance program; and (c) an upgrading program. The policy and institutional development program will: (i) prepare and annually update the state's pluriannual and annual road expenditure and funding programs; (ii) develop and monitor efficient maintenance, rehabilitation and upgrading strategies and programs, and strengthen the agency's contract and project management systems; and (iii) develop appropriate capability in the government to implement and enforce environmental standards and guidelines for state roads. The rehabilitation and maintenance program consists of rehabilitation, resurfacing, and periodic and routine maintenance components of the state's 1994-1998 road program. The upgrading program consists of the highest-priority upgrading and paving components of the state's 1994-98 road program. The Piaui State Highway Management Project aims to check further deterioration of the state road networks and improve their serviceability. The project consists of three similar subprojects in the borrower states, each supported by a separate Bank loan. Each subproject includes: a) a policy and institutional development program; b) a rehabilitation and maintenance program; and c) an upgrading program. The policy and institutional development program will: i) prepare and annually update the state's pluriannual and annual road expenditure and funding programs; ii) develop and monitor efficient maintenance, rehabilitation and upgrading strategies and programs, and strengthen the agency's contract and project management systems; and iii) develop appropriate capability in the government to implement and enforce environmental standards and guidelines for state roads. The rehabilitation and maintenance program consists of rehabilitation, resurfacing, and periodic and routine maintenance components of the state's 1994-1998 road program. The upgrading program consists of the highest priority upgrading and paving components of the state's 1994-98 program. The Maranhao State Highway Management Project aims to check further deterioration of the state road networks and improve their serviceability. The project consists of three similar subprojects in the borrower states, each supported by a separate Bank loan. Each subproject includes: a) a policy and institutional development program; b) a rehabilitation and maintenance program; and c) an upgrading program. The policy and institutional development program will: i) prepare and annually update the state's pluriannual and annual road expenditure and funding programs; ii) develop and monitor efficient maintenance, rehabilitation and upgrading strategies and programs, and strengthen the agency's contract and project management systems; and iii) develop appropriate capability in the government to implement and enforce environmental standards and guidelines for state roads. The rehabilitation and maintenance program consists of rehabilitation, resurfacing, and periodic and routine maintenance components of the state's 1994-1998 road program. The upgrading program consists of the highest priority upgrading and paving components of the state's 1994-1998 road program.",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P006555",
+    "budget": 220000000,
+    "beneficiaries": [
+      {
+        "iso2": "BR",
+        "name": "Brazil",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "1994-03-15T00:00:00.000Z",
+    "endDate": "1999-12-31T00:00:00.000Z",
+    "status": "completed",
+    "donors": [
+      {
+        "name": "The World Bank Group",
+        "url": "https://www.worldbank.org",
+        "category": "multilateral"
+      }
+    ]
+  },
+  {
+    "type": "worldbank",
+    "feedId": "P127955",
+    "id": "worldbank-P127955",
+    "sourceDate": "2024-12-19T15:21:06.397Z",
+    "name": "Solid Waste Sector DPL3",
+    "description": "",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P127955",
+    "budget": 130000000,
+    "beneficiaries": [
+      {
+        "iso2": "MA",
+        "name": "Morocco",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2013-02-14T00:00:00.000Z",
+    "endDate": "2013-12-31T00:00:00.000Z",
+    "status": "completed",
+    "donors": [
+      {
+        "name": "The World Bank Group",
+        "url": "https://www.worldbank.org",
+        "category": "multilateral"
+      }
+    ],
+    "pdo": "The objective of this Program is to support the Government's efforts to improve the economic, environmental, and social performanceof the Municipal Solid Waste sector.",
+    "implementedBy": [
+      {
+        "name": "Ministry of Interior, Ministry of Environment",
+        "category": "other"
+      }
+    ]
+  },
+  {
+    "type": "worldbank",
+    "feedId": "P173588",
+    "id": "worldbank-P173588",
+    "sourceDate": "2024-12-19T15:21:06.397Z",
+    "name": "Phu Quoc Sustainable Water Management Project",
+    "description": "",
+    "url": "https://projects.worldbank.org/en/projects-operations/project-detail/P173588",
+    "budget": 90180000,
+    "beneficiaries": [
+      {
+        "iso2": "VN",
+        "name": "Viet Nam",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": null,
+    "endDate": null,
+    "status": "on_going",
+    "donors": [
+      {
+        "name": "The World Bank Group",
+        "url": "https://www.worldbank.org",
+        "category": "multilateral"
+      }
+    ],
+    "pdo": "The Project Development Objective (PDO) is to improve security and integrated management of Phu Quoc Island's water resources. This will be achieved through: (i) increasing water storage capacity and supply coverage; (ii) improving wastewater management; and (iii)  reducing flood risks",
+    "implementedBy": [
+      {
+        "name": "Phu Quoc Economic Zone Management Board",
+        "category": "other"
+      }
+    ]
+  }
+]

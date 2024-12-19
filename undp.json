@@ -1,0 +1,1916 @@
+[
+  {
+    "type": "undp",
+    "id": "undp-00096923",
+    "url": "https://open.undp.org/projects/00096923",
+    "feedId": "00096923",
+    "sourceDate": "2024-12-19T15:20:55.696Z",
+    "name": "Plastic Waste Management Programme: A Partnership",
+    "description": "Plastic recycling management program to minimize negative impacts of plastic waste and risks to environmental and human health in India through a socio-technical model (segregation/collection/recycling)",
+    "budget": 15373368,
+    "beneficiaries": [
+      {
+        "iso2": "IN",
+        "name": "India",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2018-01-01T00:00:00.000Z",
+    "endDate": "2031-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "United Nations Volunteers (UNV)",
+        "category": "united nations",
+        "url": "https://www.unv.org/",
+        "aliases": [
+          "UNITED NATIONS VOLUNTEERS"
+        ]
+      },
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      },
+      {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "category": "united nations",
+        "url": "http://www.unido.org",
+        "aliases": [
+          "United Nations Industrial Development Organization",
+          "UN INDUSTRIAL DEVELOPMENT ORGANIZATION",
+          "Regular Programme Of Technical Cooperation"
+        ]
+      },
+      {
+        "name": "The Coca-Cola Company",
+        "category": "private sector",
+        "aliases": [
+          "THE MANUFACTURER,MARKETER, AND DISTRIBUTOR OF NONALCOHOLIC BEVERAGE CONCENTRATES AND SYRUPS"
+        ]
+      },
+      {
+        "name": "The Coca-Cola Foundation",
+        "category": "non-governmental organization",
+        "aliases": [
+          "The Coca-Cola Foundation"
+        ]
+      },
+      {
+        "name": "Government of Odisha (India)",
+        "category": "Government agency",
+        "aliases": [
+          "Government of Odisha"
+        ]
+      },
+      {
+        "name": "Hindustan Unilever Limited",
+        "category": "private sector",
+        "aliases": [
+          "Hindustan Unilever Limited"
+        ]
+      },
+      {
+        "name": "Government of Uttarakhand (India)",
+        "category": "Government agency",
+        "aliases": [
+          "IND-Government of Uttarakhand"
+        ]
+      },
+      {
+        "name": "Charities Aid Foundation India",
+        "category": "non-governmental organization",
+        "aliases": [
+          "Charities Aid Foundation India"
+        ]
+      },
+      {
+        "name": "CSR Trust for SDGs in India",
+        "category": "non-governmental organization",
+        "aliases": [
+          "CSR Trust for SDGs in India"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-00118429",
+    "url": "https://open.undp.org/projects/00118429",
+    "feedId": "00118429",
+    "sourceDate": "2024-12-19T15:20:55.769Z",
+    "name": "Persistent Organic Pollutants",
+    "description": "Environmentally Sound Management of Persistent Organic Pollutants (POPs) in industrial and hazardous waste sectors",
+    "budget": 6061386,
+    "beneficiaries": [
+      {
+        "iso2": "BA",
+        "name": "Bosnia and Herzegovina",
+        "countryRegionUn": "ee",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2019-06-01T00:00:00.000Z",
+    "endDate": "2025-06-01T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Accelerate structural transformations",
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "Swedish International Development Cooperation Agency (SIDA)",
+        "category": "Government agency",
+        "aliases": [
+          "SWEDISH INT'L DEVELOPMENT COOPERATION",
+          "Swedish International Development Cooperation Agen"
+        ]
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "category": "Government",
+        "aliases": [
+          "GOVERNMENT OF BOSNIA AND HERZEGOVINA"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-00083160",
+    "url": "https://open.undp.org/projects/00083160",
+    "feedId": "00083160",
+    "sourceDate": "2024-12-19T15:20:55.839Z",
+    "name": "Reducing Releases of Polybromodiphenyl Ethers (PBDE) and Unintentional Persistent Organic Pollutants (UPOPs)",
+    "description": "Reducing Releases of Polybromodiphenyl Ethers (PBDE) and Unintentional Persistent Organic Pollutants (UPOPs) Originating from Unsound Waste Management and Recycling Practices and the Manufacturing of Plastics in Indonesia.",
+    "budget": 4835549,
+    "beneficiaries": [
+      {
+        "iso2": "ID",
+        "name": "Indonesia",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2016-03-16T00:00:00.000Z",
+    "endDate": "2021-03-30T00:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Eradicate poverty in all its forms and dimensions"
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-00125235",
+    "url": "https://open.undp.org/projects/00125235",
+    "feedId": "00125235",
+    "sourceDate": "2024-12-19T15:20:55.907Z",
+    "name": "Combatting Marine Plastic Litter in Cambodia",
+    "description": "The project aims to prevent and minimize plastic waste pollution on land and in the ocean through promotion of a 4R framework.",
+    "budget": 3726779,
+    "beneficiaries": [
+      {
+        "iso2": "KH",
+        "name": "Cambodia",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2020-12-01T00:00:00.000Z",
+    "endDate": "2024-08-31T00:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Building resilience"
+    ],
+    "donors": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      },
+      {
+        "name": "Japan",
+        "category": "Government",
+        "aliases": [
+          "GOVERNMENT OF JAPAN"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-00124209",
+    "url": "https://open.undp.org/projects/00124209",
+    "feedId": "00124209",
+    "sourceDate": "2024-12-19T15:20:55.976Z",
+    "name": "Ending Plastic Pollution Innovation Challenge (EPPIC)",
+    "description": "The overall aim of the Ending Plastlic Pollution Challenge (EPPIC-project) is to contribute to the reduction of plastic pollution in coastal areas in four ASEAN target countries initially and all ASEAN countries in the long term.",
+    "budget": 3623020,
+    "beneficiaries": [
+      {
+        "iso2": "VN",
+        "name": "Viet Nam",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2019-12-12T00:00:00.000Z",
+    "endDate": "2024-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      },
+      {
+        "name": "Norwegian Agency for Development Cooperation (NORAD)",
+        "category": "Government agency",
+        "aliases": [
+          "Norwegian Ag Dev Coop",
+          "Norwegian Agency for International Development",
+          "Norwegian Agency for Development Cooperation"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-01000539",
+    "url": "https://open.undp.org/projects/01000539",
+    "feedId": "01000539",
+    "sourceDate": "2024-12-19T15:20:56.044Z",
+    "name": "IP-Forerunner- Enabling Markets Work for the SDGs",
+    "description": "This initiation plan (IP) will contribute to the attaining future proof skills for the youth, ensure job placement, support entrepreneurship, enable circular economy and reduce carbon footprint for achieving net zero 2050 ambition.This IP will produce new project and programme document on skills, employment and entrepreneurship, circularity of plastic waste and reducing carbon footprint by the private sector organizations.",
+    "budget": 3403342,
+    "beneficiaries": [
+      {
+        "iso2": "BD",
+        "name": "Bangladesh",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2023-04-16T00:00:00.000Z",
+    "endDate": "2024-11-15T00:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      },
+      {
+        "name": "The Coca-Cola Foundation",
+        "category": "non-governmental organization",
+        "aliases": [
+          "The Coca-Cola Foundation"
+        ]
+      },
+      {
+        "name": "GRAMEENPHONE LTD",
+        "category": "private sector",
+        "aliases": [
+          "GRAMEENPHONE LTD"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-00122508",
+    "url": "https://open.undp.org/projects/00122508",
+    "feedId": "00122508",
+    "sourceDate": "2024-12-19T15:20:56.113Z",
+    "name": "Enhancing Biodiversity Conservation, Sust Land and Nat R",
+    "description": "Significant terrestrial biodiversity, ecosystems services by strengthening capacities, frameworks for natural resource management, integrated land use plan and environ law enforcement enhancing protected area management and the sustain of charcoal",
+    "budget": 3312850,
+    "beneficiaries": [
+      {
+        "iso2": "ST",
+        "name": "Sao Tome and Principe",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": true
+      }
+    ],
+    "startDate": "2020-03-01T00:00:00.000Z",
+    "endDate": "2026-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "Gen. Directorate Environment",
+        "category": "other"
+      }
+    ],
+    "focusArea": [
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      },
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      },
+      {
+        "name": "Japan",
+        "category": "Government",
+        "aliases": [
+          "GOVERNMENT OF JAPAN"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-00136690",
+    "url": "https://open.undp.org/projects/00136690",
+    "feedId": "00136690",
+    "sourceDate": "2024-12-19T15:20:56.181Z",
+    "name": "Domestic Waste Management Phase 2",
+    "description": "Scaling-up Integrated and Inclusive Waste Management Models through Empowering the Informal Sector and Fostering the Circular Economy (Phase 2)",
+    "budget": 2224239,
+    "beneficiaries": [
+      {
+        "iso2": "VN",
+        "name": "Viet Nam",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2021-11-01T00:00:00.000Z",
+    "endDate": "2025-06-30T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "World Economic Forum",
+        "category": "non-governmental organization",
+        "aliases": [
+          "WORLD ECONOMIC FORUM"
+        ]
+      },
+      {
+        "name": "Netherlands (Kingdom of the)",
+        "category": "Government",
+        "aliases": [
+          "GOVERNMENT OF NETHERLANDS"
+        ]
+      },
+      {
+        "name": "Ministry of Foreign Affairs (Norway)",
+        "category": "Government agency",
+        "aliases": [
+          "MINISTRY OF FOREIGN AFFAIRS",
+          "NOR - MINISTRY OF FOREIGN AFFAIRS"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-00123967",
+    "url": "https://open.undp.org/projects/00123967",
+    "feedId": "00123967",
+    "sourceDate": "2024-12-19T15:20:56.250Z",
+    "name": "Marine Plastic Litter Reduction Acceleration",
+    "description": "Support Facility Project for Marine Plastic Litter Reduction Acceleration Secretariat",
+    "budget": 2117421,
+    "beneficiaries": [
+      {
+        "iso2": "ID",
+        "name": "Indonesia",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2019-11-29T00:00:00.000Z",
+    "endDate": "2027-07-31T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Eradicate poverty in all its forms and dimensions",
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "Ministry of Foreign Affairs (Norway)",
+        "category": "Government agency",
+        "aliases": [
+          "MINISTRY OF FOREIGN AFFAIRS",
+          "NOR - MINISTRY OF FOREIGN AFFAIRS"
+        ]
+      },
+      {
+        "name": "PT Tirta Investama",
+        "category": "private sector",
+        "aliases": [
+          "PT Tirta Investama"
+        ]
+      },
+      {
+        "name": "CLEAN RIVERS LTD",
+        "category": "other"
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-00122804",
+    "url": "https://open.undp.org/projects/00122804",
+    "feedId": "00122804",
+    "sourceDate": "2024-12-19T15:20:56.318Z",
+    "name": "Mainstreaming biodiversity-based tourism",
+    "description": "Mainstreaming biodiversity-based tourism in Thailand to support sustainable tourism development",
+    "budget": 1743942,
+    "beneficiaries": [
+      {
+        "iso2": "TH",
+        "name": "Thailand",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2022-10-03T00:00:00.000Z",
+    "endDate": "2026-10-07T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "BEDO - Pub. Org. in Thailand",
+        "category": "other"
+      }
+    ],
+    "focusArea": [
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-00121996",
+    "url": "https://open.undp.org/projects/00121996",
+    "feedId": "00121996",
+    "sourceDate": "2024-12-19T15:20:56.389Z",
+    "name": "DOMESTIC WASTE AND PLASTIC",
+    "description": "Effective solid waste management and reduction of marine plastics are essential for environmental and ocean protection as well as for sustainable dev. as a whole.This project will implement in five sites: Ha Long, Quy Nhon, Mui Ne, Binh Duong and Da Lat.",
+    "budget": 1482792,
+    "beneficiaries": [
+      {
+        "iso2": "VN",
+        "name": "Viet Nam",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2019-09-01T00:00:00.000Z",
+    "endDate": "2024-05-29T00:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "Ministry of Foreign Affairs (Norway)",
+        "category": "Government agency",
+        "aliases": [
+          "MINISTRY OF FOREIGN AFFAIRS",
+          "NOR - MINISTRY OF FOREIGN AFFAIRS"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-01002715",
+    "url": "https://open.undp.org/projects/01002715",
+    "feedId": "01002715",
+    "sourceDate": "2024-12-19T15:20:56.457Z",
+    "name": "Global Plastics Innovation Program (GPIP): Incubation, Exhibition, and International Cooperation to End Plastic Pollution",
+    "description": "Global Plastics Innovation Program (GPIP): Incubation, Exhibition, and International Cooperation to End Plastic Pollution",
+    "budget": 1250133,
+    "beneficiaries": [],
+    "startDate": "2024-07-01T00:00:00.000Z",
+    "endDate": "2026-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "donors": [
+      {
+        "name": "UN DEPT OF ECONOMIC AND SOCIAL AFFAIRS",
+        "category": "other"
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-00126111",
+    "url": "https://open.undp.org/projects/00126111",
+    "feedId": "00126111",
+    "sourceDate": "2024-12-19T15:20:56.526Z",
+    "name": "Plastic Waste Management",
+    "description": "Building Circular Cities in Partnership with Private Sector: Starting from Plastic Waste Management",
+    "budget": 1102280,
+    "beneficiaries": [
+      {
+        "iso2": "BD",
+        "name": "Bangladesh",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2020-02-01T00:00:00.000Z",
+    "endDate": "2024-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "Department for International Development (DFID) (UK)",
+        "category": "Government agency",
+        "aliases": [
+          "DEPARTMENT FOR INT'L DEVELOPMENT (DFID)"
+        ]
+      },
+      {
+        "name": "Unilever Bangladesh Limited",
+        "category": "private sector",
+        "aliases": [
+          "Unilever Bangladesh Limited"
+        ]
+      },
+      {
+        "name": "HSBC Holdings plc",
+        "category": "private sector",
+        "aliases": [
+          "HSBC Holdings plc"
+        ]
+      },
+      {
+        "name": "Foreign, Commonwealth and Development Office (UK)",
+        "category": "Government agency",
+        "aliases": [
+          "Foreign,Commonwealth & Dev.Off."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-00131629",
+    "url": "https://open.undp.org/projects/00131629",
+    "feedId": "00131629",
+    "sourceDate": "2024-12-19T15:20:56.595Z",
+    "name": "RFF Post COVID-19",
+    "description": "The project aims to accelerate the post COVID-19 transition to a circular economy, focusing on the recovery of low-value glass, plastic and paper waste streams, in Samoa & Tokelau, while enhancing youth employment.",
+    "budget": 961029,
+    "beneficiaries": [
+      {
+        "iso2": "WS",
+        "name": "Samoa",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      }
+    ],
+    "startDate": "2020-12-01T00:00:00.000Z",
+    "endDate": "2031-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Eradicate poverty in all its forms and dimensions"
+    ],
+    "donors": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      },
+      {
+        "name": "Foreign, Commonwealth and Development Office (UK)",
+        "category": "Government agency",
+        "aliases": [
+          "Foreign,Commonwealth & Dev.Off."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-00141990",
+    "url": "https://open.undp.org/projects/00141990",
+    "feedId": "00141990",
+    "sourceDate": "2024-12-19T15:20:56.663Z",
+    "name": "CPD Support",
+    "description": "further strengthening of the E&E programme in such areas as Municipal Solid Waste, Municipal Solid Waste, Plastic and plastic wastes, Forestry, Drinking and Waste waters, Energy Efficiency in Construction sector, Peatlands.",
+    "budget": 935487,
+    "beneficiaries": [
+      {
+        "iso2": "BY",
+        "name": "Belarus",
+        "countryRegionUn": "ee",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2022-01-01T00:00:00.000Z",
+    "endDate": "2025-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Building resilience",
+      "Leaving no one behind"
+    ],
+    "donors": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-00140799",
+    "url": "https://open.undp.org/projects/00140799",
+    "feedId": "00140799",
+    "sourceDate": "2024-12-19T15:20:56.732Z",
+    "name": "Marine Litter & Plastics in the Caspian Sea",
+    "description": "Addressing Marine Litter and Marine Plastics – A Systemic Approach in the Caspian Sea. The project aims to improve the management of the land-based sources of pollution that are likely to affect the marine environment of the Caspian Sea.",
+    "budget": 764625,
+    "beneficiaries": [],
+    "startDate": "2021-12-20T00:00:00.000Z",
+    "endDate": "2027-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "focusArea": [
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "Russian Federation",
+        "category": "Government",
+        "aliases": [
+          "GOVERNMENT OF RUSSIAN FEDERATION"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-00135495",
+    "url": "https://open.undp.org/projects/00135495",
+    "feedId": "00135495",
+    "sourceDate": "2024-12-19T15:20:56.800Z",
+    "name": "Plastic Life-Cycle Management in Lesotho",
+    "description": "Strengthening Partnerships in Sustainable Plastic Life-Cycle Management in Lesotho",
+    "budget": 516831,
+    "beneficiaries": [
+      {
+        "iso2": "LS",
+        "name": "Lesotho",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2021-04-26T00:00:00.000Z",
+    "endDate": "2031-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Eradicate poverty in all its forms and dimensions"
+    ],
+    "donors": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      },
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-01002003",
+    "url": "https://open.undp.org/projects/01002003",
+    "feedId": "01002003",
+    "sourceDate": "2024-12-19T15:20:56.869Z",
+    "name": "PPG: Transforming Nauru’s Food Systems through Climate Smart Agriculture",
+    "description": "The objective of the GEF PPG is to develop the project concept into a full project: “Transforming Nauru’s Food Systems through Climate Smart Agriculture”. As described in the child project concept note of the Food Systems Integrated Program (FSIP), this project aims to implement Nauru’s Climate Smart Agriculture Plan (NaCSAP) to contribute to food and nutrition security. NaCSAP is a holistic, island-wide approach that is vertically integrated and coordinated through a whole-of-government platform. There is also integration of national priorities such as reducing import dependency/ increasing food and nutrition security and addressing sustainable development, environmental conservation related commitments, and the SDGs.The project is designed to showcase sustainable food production systems within the context of Small Island Developing States (SIDS) to achieve food security, enhance nutrition diversity, and improve health and well-being while simultaneously protecting critical ecosystems, including coastal, marine, and vital freshwater resources. It aims to assist Nauru in incorporating nature-smart and climate-resilient food production solutions into the NaSCAP. These solutions are nature-smart by conserving freshwater, preventing coastal and marine pollution, managing plastic waste from tunnel agriculture, minimizing chemical inputs, and addressing invasive species management—a prevalent issue in the Pacific. Additionally, the project will employ innovative technologies to conserve land, water, and coastal areas. The climate-resilient aspects include water conservation measures, the utilization of weather-proof greenhouses, and the reduction of greenhouse gases (GHG) using renewable energy sources for cooling systems and fertilizer conveyance.",
+    "budget": 370000,
+    "beneficiaries": [
+      {
+        "iso2": "FJ",
+        "name": "Fiji",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      }
+    ],
+    "startDate": "2024-02-20T00:00:00.000Z",
+    "endDate": "2025-02-20T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Leaving no one behind"
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-01000512",
+    "url": "https://open.undp.org/projects/01000512",
+    "feedId": "01000512",
+    "sourceDate": "2024-12-19T15:20:56.937Z",
+    "name": "Global Plastics Offer (GPO) – Support the Start-up Phase",
+    "description": "The purpose of the Initiation Plan is to develop a Project Document and to undertake early-stage activities necessary for the operationalizing of UNDP’s Global Plastics Offer. The Initiation Plan will serve as the primary document for formalizing global plastics partnerships with the NCE BPPS team until the Global Plastics Offer Project Document (ProDoc) is finalized. Once the Global Plastics Offer ProDoc is finalzed, the Global Plastics Offer Initiation Plan will be closed and the Global Plastics Offer ProDoc will serve as the primary document for formalizing global plastics partnerships.",
+    "budget": 324000,
+    "beneficiaries": [],
+    "startDate": "2023-03-15T00:00:00.000Z",
+    "endDate": "2024-09-15T00:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "The Ocean Cleanup",
+        "category": "non-governmental organization",
+        "aliases": [
+          "The Ocean Cleanup"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-01001030",
+    "url": "https://open.undp.org/projects/01001030",
+    "feedId": "01001030",
+    "sourceDate": "2024-12-19T15:20:57.006Z",
+    "name": "Circular Solutions to Plastic Pollution (PPG)",
+    "description": "PPG Circular Solutions to Plastic Pollution in Costa Rica.The objective of the GEF PPG is to develop the project concept into a full project: Circular Solutions to Plastic Pollution in Costa Rica. As described in the project child project concept note, the project main objective is to reduce the amount of plastic that the food and beverage industry put on the market and incentivize them to implement circular solutions to plastic packaging",
+    "budget": 300000,
+    "beneficiaries": [
+      {
+        "iso2": "CR",
+        "name": "Costa Rica",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2023-07-18T00:00:00.000Z",
+    "endDate": "2024-10-09T00:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Leaving no one behind"
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "umbrellaId": "gef-11197",
+    "umbrellaUrl": "https://www.worldwildlife.org/projects/circular-solutions-to-plastic-pollution-global-project"
+  },
+  {
+    "type": "undp",
+    "id": "undp-01002193",
+    "url": "https://open.undp.org/projects/01002193",
+    "feedId": "01002193",
+    "sourceDate": "2024-12-19T15:20:57.077Z",
+    "name": "Global Plastics Innovation Program (GPIP): Addressing Plastic Pollution through Policy, Innovation, and Awareness Raising",
+    "description": "Global Plastics Innovation Program (GPIP): Addressing Plastic Pollution through Policy, Innovation, and Awareness Raising",
+    "budget": 269550,
+    "beneficiaries": [],
+    "startDate": "2024-03-01T00:00:00.000Z",
+    "endDate": "2025-03-01T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "Japan",
+        "category": "Government",
+        "aliases": [
+          "GOVERNMENT OF JAPAN"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-01001108",
+    "url": "https://open.undp.org/projects/01001108",
+    "feedId": "01001108",
+    "sourceDate": "2024-12-19T15:20:57.145Z",
+    "name": "Circular Economy for the Recovery of Waste Transition",
+    "description": "The Circular Economy for the Recovery of Waste Transition (CERO Waste Transition) builds on and intends to further the successes of the pilot phase to consolidate a foundation for a scalable transition to an inclusive and climate-resilient circular economy (CE), targeting the plastic waste stream, that accounts for Samoa’s second largest waste stream and a problematic source of terrestrial and marine ecosystem pollution and degradation. As plastic waste pollution and its associated environmental impacts are exacerbated by multiple factors, a holistic approach is proposed that integrates convening power, systems thinking, institutional capacity building, education and awareness-building, technological innovation and on-the-ground action to accelerate the transition to a CE, leveraging actors from across the public, private and civil society sector due to the multi-stakeholder nature of the issue.",
+    "budget": 242664,
+    "beneficiaries": [
+      {
+        "iso2": "WS",
+        "name": "Samoa",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      }
+    ],
+    "startDate": "2023-09-01T00:00:00.000Z",
+    "endDate": "2024-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "Foreign, Commonwealth and Development Office (UK)",
+        "category": "Government agency",
+        "aliases": [
+          "Foreign,Commonwealth & Dev.Off."
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-01000891",
+    "url": "https://open.undp.org/projects/01000891",
+    "feedId": "01000891",
+    "sourceDate": "2024-12-19T15:20:57.214Z",
+    "name": "Reduction of POPs & U-POPs",
+    "description": "The project intends to ensure integrated solid waste management towards zero waste and a circular economy vision for Eswatini. The main focus of the waste streams in this project includes healthcare waste, e-waste, and plastic waste. The project will help reduce pollution from chemicals and waste, improve the health and livelihoods of the general population and workers through a gender-responsive approach, and foster green growth through public and private partnerships in the services of waste management and circular businesses, particularly SMEs.",
+    "budget": 159000,
+    "beneficiaries": [
+      {
+        "iso2": "SZ",
+        "name": "Eswatini",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2023-08-01T00:00:00.000Z",
+    "endDate": "2024-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-01000849",
+    "url": "https://open.undp.org/projects/01000849",
+    "feedId": "01000849",
+    "sourceDate": "2024-12-19T15:20:57.282Z",
+    "name": "PPG Sustainable solutions to plastic pollution in Senegal",
+    "description": "The objective of the GEF PPG is to develop the project concept into a full project: Sustainable Solutions to Plastics Pollution in Senegal. As described in the project child project concept note, this project seeks to reduce the use and disposal of single use plastics from the food and beverage sector in Senegal",
+    "budget": 150000,
+    "beneficiaries": [
+      {
+        "iso2": "SN",
+        "name": "Senegal",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2023-06-14T00:00:00.000Z",
+    "endDate": "2025-03-01T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "umbrellaId": "gef-11197",
+    "umbrellaUrl": "https://www.worldwildlife.org/projects/circular-solutions-to-plastic-pollution-global-project"
+  },
+  {
+    "type": "undp",
+    "id": "undp-01000965",
+    "url": "https://open.undp.org/projects/01000965",
+    "feedId": "01000965",
+    "sourceDate": "2024-12-19T15:20:57.351Z",
+    "name": "PIMS-9629 PPG - Circular solutions to plastic pollution in The Dominican Republic",
+    "description": "The objective of the GEF PPG is to develop the project concept into a full project: Circular Solutions to Plastic Pollution in the Dominican Republic. As described in the project child project concept note, the project main objective is to decrease the production and waste of plastic packaging through a focus on a circular economy in the sector of Food & Beverage (F&B), building up on and fueling existing un-financed national policy frameworks and roadmaps.",
+    "budget": 150000,
+    "beneficiaries": [
+      {
+        "iso2": "DO",
+        "name": "Dominican Republic",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      }
+    ],
+    "startDate": "2023-09-22T00:00:00.000Z",
+    "endDate": "2024-12-29T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "umbrellaId": "gef-11197",
+    "umbrellaUrl": "https://www.worldwildlife.org/projects/circular-solutions-to-plastic-pollution-global-project"
+  },
+  {
+    "type": "undp",
+    "id": "undp-01001041",
+    "url": "https://open.undp.org/projects/01001041",
+    "feedId": "01001041",
+    "sourceDate": "2024-12-19T15:20:57.419Z",
+    "name": "Circular Solution to Plastic Pollution",
+    "description": "to promote Jordan transition to circular economy model with focus on plastic waste",
+    "budget": 150000,
+    "beneficiaries": [
+      {
+        "iso2": "JO",
+        "name": "Jordan",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2023-07-19T00:00:00.000Z",
+    "endDate": "2024-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "umbrellaId": "gef-11197",
+    "umbrellaUrl": "https://www.worldwildlife.org/projects/circular-solutions-to-plastic-pollution-global-project"
+  },
+  {
+    "type": "undp",
+    "id": "undp-01003134",
+    "url": "https://open.undp.org/projects/01003134",
+    "feedId": "01003134",
+    "sourceDate": "2024-12-19T15:20:57.487Z",
+    "name": "Global Plastics Offer (GPO) – Support the Start-up Phase (Engagement Facility)",
+    "description": "UNDP entered into a global partnership with the Ocean Cleanup in support of the implementation of UNDP’s Plastics Offer. The goal of the partnership is to jointly develop solutions for the reduction of leakages of plastics into marine ecosystems from rivers, basins and terrestrial and marine resources through deployment of technologies, policy advocacy and behavior change. This global partnership builds on the experiences and lessons learned from the national level cooperation between UNDP-Dominican Republic and the Ocean Cleanup. Eight priority countries have been identified for this partnership considering various factors including pollution status, existing relationship, and past/ongoing plastic work. The 8 countries are Thailand, Vietnam, Indonesia, Malaysia, India, Dominican Republic, Guatemala, and Jamaica.",
+    "budget": 141258,
+    "beneficiaries": [],
+    "startDate": "2024-09-16T00:00:00.000Z",
+    "endDate": "2026-02-14T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "donors": [
+      {
+        "name": "The Ocean Cleanup",
+        "category": "non-governmental organization",
+        "aliases": [
+          "The Ocean Cleanup"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-00072772",
+    "url": "https://open.undp.org/projects/00072772",
+    "feedId": "00072772",
+    "sourceDate": "2024-12-19T15:20:57.556Z",
+    "name": "PPG - Reducing PBDE and UPOPs",
+    "description": "Reducing Releases of Polybromodiphenyl Ethers (PBDE) and Unintentional Persistent Organic Pollutants (UPOPs) Originating from Unsound Waste Management and Recycling Practices and the Manufacturing of Plastics in Indonesia",
+    "budget": 122641,
+    "beneficiaries": [
+      {
+        "iso2": "ID",
+        "name": "Indonesia",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2013-03-01T00:00:00.000Z",
+    "endDate": "2014-12-31T00:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Inclusive Growth"
+    ],
+    "donors": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      },
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-00125464",
+    "url": "https://open.undp.org/projects/00125464",
+    "feedId": "00125464",
+    "sourceDate": "2024-12-19T15:20:57.625Z",
+    "name": "Plastic waste management at the local level",
+    "description": "The project objective is to minimize negative impacts and risks to environment and to human health through promoting sustainable plastic waste management practices at the local level.",
+    "budget": 99101,
+    "beneficiaries": [
+      {
+        "iso2": "UA",
+        "name": "Ukraine",
+        "countryRegionUn": "ee",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2019-12-23T00:00:00.000Z",
+    "endDate": "2021-05-14T00:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Accelerate structural transformations"
+    ],
+    "donors": [
+      {
+        "name": "Global Water Challenge",
+        "category": "non-governmental organization",
+        "aliases": [
+          "Global Water Challenge"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-01001861",
+    "url": "https://open.undp.org/projects/01001861",
+    "feedId": "01001861",
+    "sourceDate": "2024-12-19T15:20:57.693Z",
+    "name": "PIMS-9537 URU/24/G31 PPG Towards a more circular Uruguay",
+    "description": "The objective of the GEF PPG is to develop the project concept into a full project: Towards a more circular Uruguay (Uruguay + Circular). As described in the project concept, this project aims to strengthen institutional and legal capacities and financial instruments for the transition to a circular economy, to apply circular models, including financial instruments, to food, plastics, vehicles, construction value chains with a socioinclusive approach and to disseminate knowledge and information to all stakeholders in the whole society to promote sustainable consumption and production pattern",
+    "budget": 99000,
+    "beneficiaries": [
+      {
+        "iso2": "UY",
+        "name": "Uruguay",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2024-02-05T00:00:00.000Z",
+    "endDate": "2025-08-05T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-01002292",
+    "url": "https://open.undp.org/projects/01002292",
+    "feedId": "01002292",
+    "sourceDate": "2024-12-19T15:20:57.762Z",
+    "name": "National Plastic Action Partnership in the Philippines",
+    "description": "Plastic pollution is recognized as a symptom of deeper systemic issues, including unsustainable production and consumption patterns, inadequate waste management infrastructure, legal frameworks, and enforcement, as well as economic, behavioral, and political factors. There is a pressing need for holistic solutions that address these root causes comprehensively.The National Plastic Action Partnership (NPAP) is a collaborative initiative spearheaded by the World Economic Forum (WEF) and the Global Plastic Action Partnership (GPAP). Its aim is to tackle the global challenge of plastic pollution by bringing together stakeholders from various sectors to develop and implement strategies that reduce plastic pollution and transition towards a circular economy. This can be achieved through 1) establishing organizational and operation procedures of NPAP and developing stakeholder engagement mechanism, 2) generate evidences from studies that feed into national action roadmap and community engagement, and 3) strengthening coordination and collaborations for initiatives on plastic action.UNDP Philippines will act as the NPAP Secretariat for the Philippines. The NPAP Secretariat in the Philippines will play a critical role in coordinating and implementing the NPAPs initiatives in the country.",
+    "budget": 86345,
+    "beneficiaries": [
+      {
+        "iso2": "PH",
+        "name": "Philippines",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2024-06-01T00:00:00.000Z",
+    "endDate": "2025-04-30T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "donors": [
+      {
+        "name": "World Economic Forum",
+        "category": "non-governmental organization",
+        "aliases": [
+          "WORLD ECONOMIC FORUM"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-00121201",
+    "url": "https://open.undp.org/projects/00121201",
+    "feedId": "00121201",
+    "sourceDate": "2024-12-19T15:20:57.830Z",
+    "name": "The NAP on Marine Plastic Litter (PPG)",
+    "description": "The Initiation Plan (PPG): Supporting the Implementation of the National Action Plan on Marine Plastic Litter in the context of Green Recovery post-COVID 19 in Viet Nam",
+    "budget": 82098,
+    "beneficiaries": [
+      {
+        "iso2": "VN",
+        "name": "Viet Nam",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2022-06-30T00:00:00.000Z",
+    "endDate": "2024-08-29T00:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-01001346",
+    "url": "https://open.undp.org/projects/01001346",
+    "feedId": "01001346",
+    "sourceDate": "2024-12-19T15:20:57.898Z",
+    "name": "UNCTAD UNDP WORKSHOP",
+    "description": "Organization of a 3-day regional workshop in Suva, Fiji entitled: “Regional Indo-Pacific workshop on oceans economy, plastic pollution, and plastic substitutes” including related substantive and logistical elements. The workshop will assist countries in the Indo-pacific region to better understand material substitutes as part of solutions under SDG 14.1 and 12. The activity will also assist in building a stronger voice of Pacific Nations in multilateral processes on plastic pollution, including the WTO Dialogue on Plastic Pollution and the Intergovernmental Negotiating Committee towards a binding international instrument on plastic pollution.",
+    "budget": 67000,
+    "beneficiaries": [
+      {
+        "iso2": "FJ",
+        "name": "Fiji",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      }
+    ],
+    "startDate": "2023-08-08T00:00:00.000Z",
+    "endDate": "2023-12-31T00:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Structural transformation, including green, inclusive and digital transitions"
+    ],
+    "donors": [
+      {
+        "name": "United Nations Conference on Trade and Development (UNCTAD)",
+        "category": "united nations",
+        "aliases": [
+          "UN CONF ON TRADE & DEVELOPMENT"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-00120544",
+    "url": "https://open.undp.org/projects/00120544",
+    "feedId": "00120544",
+    "sourceDate": "2024-12-19T15:20:57.967Z",
+    "name": "Nudging the Private Sector to Address Waste Management",
+    "description": "This initiative is to address waste management through behavioral insights and also engage with the private sector",
+    "budget": 43582,
+    "beneficiaries": [
+      {
+        "iso2": "SB",
+        "name": "Solomon Islands",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": true
+      }
+    ],
+    "startDate": "2019-07-02T00:00:00.000Z",
+    "endDate": "2019-12-31T00:00:00.000Z",
+    "status": "completed",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Eradicate poverty in all its forms and dimensions"
+    ],
+    "donors": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ]
+  },
+  {
+    "type": "undp",
+    "id": "undp-01003084",
+    "url": "https://open.undp.org/projects/01003084",
+    "feedId": "01003084",
+    "sourceDate": "2024-12-19T15:20:58.035Z",
+    "name": "Costa Rica National Plastic Action Partnership (CR-NPAP) Initiative",
+    "description": "Iniciativa de Plataforma Nacional de Accion sobre los Plásticos (Costa Rica)The project aims to serve as the National Plastic Action Partnership (NPAP) Secretariat and host organization in Costa Rica, fostering multi-stakeholder collaboration to implement innovative, sustainable, and inclusive solutions to eliminate plastic pollution. By enhancing partnerships, increasing awareness, and driving behavioral change, the project seeks to align national efforts with global standards, contributing significantly to the sustainable development goals (SDGs) and protecting Costa Ricas rich biodiversity and marine environment",
+    "budget": 32580,
+    "beneficiaries": [
+      {
+        "iso2": "CR",
+        "name": "Costa Rica",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "startDate": "2024-09-01T00:00:00.000Z",
+    "endDate": "2026-09-01T00:00:00.000Z",
+    "status": "on_going",
+    "implementedBy": [
+      {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": [
+          "National Execution",
+          "Natl Council Sustainable Dev.",
+          "United Nations Development Programme",
+          "UNDP",
+          "UNITED NATIONS DEVELOPMENT PROGRAMME"
+        ]
+      }
+    ],
+    "focusArea": [
+      "Leaving no one behind"
+    ],
+    "donors": [
+      {
+        "name": "World Economic Forum",
+        "category": "non-governmental organization",
+        "aliases": [
+          "WORLD ECONOMIC FORUM"
+        ]
+      }
+    ]
+  }
+]

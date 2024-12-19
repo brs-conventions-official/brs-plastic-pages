@@ -1,0 +1,167 @@
+
+> @unbrs/plastic-cli@2.1.2 build
+> tsc
+
+Reading mapping files from /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/aliases.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/umbrella_projects.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/excluded_projects.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/excluded_names.json
+Reading mapping files from /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/aliases.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/umbrella_projects.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/excluded_projects.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/excluded_names.json
+(node:1716) Warning: Setting the NODE_TLS_REJECT_UNAUTHORIZED environment variable to '0' makes TLS connections and HTTPS requests insecure by disabling certificate verification.
+(Use `node --trace-warnings ...` to show where the warning was created)
+Set as umbrella project: gef-11197 "Circular Solutions to Plastic Pollution: Global Platform"
+      feed : "gef"
+--------------------------------------------------------------------------------
+Excluded project: gef-11196 "Circular solutions to plastic pollution in South Africa"
+      feed : "gef"
+--------------------------------------------------------------------------------
+Excluded project: gef-11195 "Support the management of plastic pollution in Senegal (Plastic IP)"
+      feed : "gef"
+--------------------------------------------------------------------------------
+Excluded project: gef-11194 "Circular solutions to plastic pollution in the Philippines"
+      feed : "gef"
+--------------------------------------------------------------------------------
+Set umbrella project: for gef-11193 "Circular Solutions to Plastic Pollution in Nigeria" to gef-11197
+Excluded project: gef-11192 "Circular solutions to plastic pollution in Morocco"
+      feed : "gef"
+--------------------------------------------------------------------------------
+Set umbrella project: for gef-11191 "Circular Solutions to Plastic Pollution in Peru" to gef-11197
+Set umbrella project: for gef-11190 "Promoting Circular Solutions to Single-Use Plastic Consumption in Lao PDR. (Plastics IP)" to gef-11197
+Excluded project: gef-11189 "Jordan Circular Solutions to Plastic Pollution IP Child Project"
+      feed : "gef"
+--------------------------------------------------------------------------------
+Excluded project: gef-11188 "Operationalizing and implementing circular economy solutions to minimize plastic waste and reduce plastic pollution from food and beverage packaging (Plastic IP)"
+      feed : "gef"
+--------------------------------------------------------------------------------
+Excluded project: gef-11187 "Circular Solutions to Plastic Pollution in the Dominican Republic"
+      feed : "gef"
+--------------------------------------------------------------------------------
+Excluded project: gef-11186 "Circular solutions to plastic pollution"
+      feed : "gef"
+--------------------------------------------------------------------------------
+Set umbrella project: for gef-11185 "Reducing Single-use Plastics on Small-island Economies (RESPONSE - Plastic IP)" to gef-11197
+Set umbrella project: for gef-11184 "Promoting circular solutions for the food & beverage sector to tackle plastic pollution in Cambodia (Plastic IP)" to gef-11197
+Excluded project: gef-11017 "Supporting the Implementation of the National Action Plan on Marine Plastic Litter in the context of Green Recovery post-COVID 19 in Viet Nam"
+      feed : "gef"
+--------------------------------------------------------------------------------
+Excluded project: gef-10401 "Establishing a circular economy framework for the plastics sector in Ghana"
+      feed : "gef"
+--------------------------------------------------------------------------------
+CSV file /home/runner/work/brs-plastic/brs-plastic/packages/cli/dist/../examples/gef-projects.csv successfully processed
+CSV file /home/runner/work/brs-plastic/brs-plastic/packages/cli/dist/../examples/manual.csv successfully processed
+Writing geojson to /home/runner/work/brs-plastic/brs-plastic/packages/portal/public/ungeojson.json
+Reading mapping files from /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/aliases.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/umbrella_projects.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/excluded_projects.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/excluded_names.json
+Writing brs feed to file /home/runner/work/brs-plastic/brs-plastic/packages/portal/public/brs.json
+Reading mapping files from /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/aliases.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/umbrella_projects.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/excluded_projects.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/excluded_names.json
+Retrieving undp projects from https://api.open.undp.org/api/v1/project/list?keyword=plastic ...
+undp feed: Country "Bureau Policy & Prog Support" not found for 01002715 project.
+undp feed: Country "Regional Center Istanbul" not found for 00140799 project.
+undp feed: Country "Bureau Policy & Prog Support" not found for 01000512 project.
+undp feed: Country "Rgnl Center in Bangkok (RCB)" not found for 01002193 project.
+undp feed: Country "Bureau Policy & Prog Support" not found for 01003134 project.
+Excluded : "Unspecified"
+      feed : "undp"
+   project : "Plastic Waste Management Programme: A Partnership"
+--------------------------------------------------------------------------------
+Excluded : "Unspecified"
+      feed : "undp"
+   project : "Ending Plastic Pollution Innovation Challenge (EPPIC)"
+--------------------------------------------------------------------------------
+No mapping : "Gen. Directorate Environment"
+      feed : "undp"
+   project : "Enhancing Biodiversity Conservation, Sust Land and Nat R"
+--------------------------------------------------------------------------------
+Excluded : "Unspecified"
+      feed : "undp"
+   project : "Domestic Waste Management Phase 2"
+--------------------------------------------------------------------------------
+No mapping : "CLEAN RIVERS LTD"
+      feed : "undp"
+   project : "Marine Plastic Litter Reduction Acceleration"
+--------------------------------------------------------------------------------
+No mapping : "BEDO - Pub. Org. in Thailand"
+      feed : "undp"
+   project : "Mainstreaming biodiversity-based tourism"
+--------------------------------------------------------------------------------
+Excluded : "Unspecified"
+      feed : "undp"
+   project : "DOMESTIC WASTE AND PLASTIC"
+--------------------------------------------------------------------------------
+No mapping : "UN DEPT OF ECONOMIC AND SOCIAL AFFAIRS"
+      feed : "undp"
+   project : "Global Plastics Innovation Program (GPIP): Incubation, Exhibition, and International Cooperation to End Plastic Pollution"
+--------------------------------------------------------------------------------
+Set umbrella project: for undp-01001030 "Circular Solutions to Plastic Pollution (PPG)" to gef-11197
+Set umbrella project: for undp-01000849 "PPG Sustainable solutions to plastic pollution in Senegal" to gef-11197
+Set umbrella project: for undp-01000965 "PIMS-9629 PPG - Circular solutions to plastic pollution in The Dominican Republic" to gef-11197
+Set umbrella project: for undp-01001041 "Circular Solution to Plastic Pollution" to gef-11197
+Writing undp feed to file /home/runner/work/brs-plastic/brs-plastic/packages/portal/public/undp.json
+Reading mapping files from /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/aliases.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/umbrella_projects.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/excluded_projects.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/excluded_names.json
+Retrieving iucn projects from https://open.iucn.org/api/v1/project/list/?keyword=plastic ...
+No mapping : "Ministry of Natural Resources and Environment, Viet Nam"
+      feed : "iucn"
+   project : "Closing the Loop – Scaling up Innovation to Tackle Marine Plastic Pollution in Danang City"
+--------------------------------------------------------------------------------
+Writing iucn feed to file /home/runner/work/brs-plastic/brs-plastic/packages/portal/public/iucn.json
+Reading mapping files from /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/aliases.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/umbrella_projects.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/excluded_projects.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/excluded_names.json
+unido feed: Country "M2" not found for '190137' project
+Set umbrella project: for unido-230062 "Circular solutions to plastic pollution in Morocco" to gef-11197
+Set umbrella project: for unido-230065 "Circular Solutions to Plastic Pollution in the Philippines" to gef-11197
+Set umbrella project: for unido-230071 "Circular solutions to plastic pollution in South Africa" to gef-11197
+Set umbrella project: for unido-230080 "Operationalizing and implementing circular economy solutions to minimize plastic waste and reduce plastic pollution from food and beverage packaging in India" to gef-11197
+Writing unido feed to file /home/runner/work/brs-plastic/brs-plastic/packages/portal/public/unido.json
+Reading mapping files from /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/aliases.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/umbrella_projects.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/excluded_projects.json
+Reading /home/runner/work/brs-plastic/brs-plastic/packages/cli/mappings/excluded_names.json
+world bank feed: Country "8S" not found for 'Plastic free Rivers and Seas for South Asia' project
+world bank feed: Country "4S" not found for 'Southeast Asia Regional Program on Combating Marine Plastics (SEA-MaP)' project
+world bank feed: Unknown status "Dropped"
+No mapping : "ASEAN Secretariat, Sustainable Development Directorate"
+      feed : "worldbank"
+   project : "Southeast Asia Regional Program on Combating Marine Plastics (SEA-MaP)"
+--------------------------------------------------------------------------------
+No mapping : "Jiangxi Provincial Finance Department, Jiangxi Provincial Development and Reform Commission��, Hunan Provincial Finance Department, Hunan Provincial Development and Reform Commission"
+      feed : "worldbank"
+   project : "Yangtze River Protection and Ecological Restoration Program"
+--------------------------------------------------------------------------------
+No mapping : "MS Smart Recycling Sdn Bhd."
+      feed : "worldbank"
+   project : "MY-CF-Kota Kinabalu Composting Project"
+--------------------------------------------------------------------------------
+No mapping : "Ministry of Interior, Ministry of Environment"
+      feed : "worldbank"
+   project : "Solid Waste Sector DPL3"
+--------------------------------------------------------------------------------
+No mapping : "Phu Quoc Economic Zone Management Board"
+      feed : "worldbank"
+   project : "Phu Quoc Sustainable Water Management Project"
+--------------------------------------------------------------------------------
+Writing worldbank feed to file /home/runner/work/brs-plastic/brs-plastic/packages/portal/public/wbank.json
+Start processing inventories from  ./examples/inventory directory
+Found 2 files: GH_2024_Ghana.xlsx, LK_2024_Sri Lanka.xlsx
+Processed 2 files
+Output written to /home/runner/work/brs-plastic/brs-plastic/packages/cli/dist/../../portal/public/inventory.json
+No errors

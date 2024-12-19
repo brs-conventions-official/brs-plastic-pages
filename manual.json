@@ -1,0 +1,1520 @@
+[
+  {
+    "type": "unep",
+    "id": "unep-1",
+    "feedId": "1",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "Marine Litter MED II",
+    "description": "The second phase of the Marine Litter\nMED project focuses on strengthening\nthe implementation of the updated\nRegional Plan on Marine Litter\nManagement in the Mediterranean,\nadopted by the Contracting Parties\nto the Barcelona Convention in\nDecember 2021 (COP 22). The project\nexpands pilot activities related to\nthe reduction and prevention of\nmarine litter, especially in terms of\ngeographical scope and impact.",
+    "beneficiaries": [
+      {
+        "iso2": "DZ",
+        "name": "Algeria",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "EG",
+        "name": "Egypt",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "IL",
+        "name": "Israel",
+        "countryRegionUn": "weog",
+        "isDeveloping": false,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "LB",
+        "name": "Lebanon",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "LY",
+        "name": "Libya",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "MA",
+        "name": "Morocco",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "TN",
+        "name": "Tunisia",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "European Commission",
+        "category": "Government agency"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "United Nations Environment Programme (UNEP) / MAP-Barcelona Convention",
+        "category": "united nations"
+      }
+    ],
+    "startDate": "2020-09-01T00:00:00.000Z",
+    "endDate": "2023-08-01T00:00:00.000Z",
+    "status": "completed",
+    "budget": "1140000",
+    "url": "https://www.unep.org/unepmap/what-we-do/projects/MarineLitterMED-II",
+    "isUmbrella": false
+  },
+  {
+    "type": "unep",
+    "id": "unep-2",
+    "feedId": "2",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "Prevention of Marine Litter in the Caribbean Sea (PROMAR)",
+    "description": "The project will support countries in addressing the pervasive nature of plastic litter and solid waste management, either directly or indirectly, via programmes aimed at creating the policy, legislative and institutional capacity to reduce and manage plastic waste.",
+    "beneficiaries": [
+      {
+        "iso2": "GY",
+        "name": "Guyana",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "SR",
+        "name": "Suriname",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "KN",
+        "name": "Saint Kitts and Nevis",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "TT",
+        "name": "Trinidad and Tobago",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "DO",
+        "name": "Dominican Republic",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "CR",
+        "name": "Costa Rica",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "CO",
+        "name": "Colombia",
+        "countryRegionUn": "grulac",
+        "isDeveloping": false,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "German Federal Ministry for the Environment and Nuclear Safety (Germany)",
+        "category": "Government agency"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "United Nations Environment Programme (UNEP) / Cartagena Convention Secretariat",
+        "category": "united nations"
+      }
+    ],
+    "startDate": "2020-01-01T00:00:00.000Z",
+    "endDate": "2026-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "budget": "4900000",
+    "url": "https://promar.org/en",
+    "isUmbrella": false
+  },
+  {
+    "type": "unep",
+    "id": "unep-3",
+    "feedId": "3",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "SEA circular (Reducing marine litter by addressing the management of the plastic value chain in South-East Asia)",
+    "description": "The overall aim of SEA circular project is to ensure less plastic is wasted, with reduced input to and impact on the marine environment and its dependent people in South-East Asia.",
+    "beneficiaries": [
+      {
+        "iso2": "KH",
+        "name": "Cambodia",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      },
+      {
+        "iso2": "ID",
+        "name": "Indonesia",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "MY",
+        "name": "Malaysia",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "PH",
+        "name": "Philippines",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "TH",
+        "name": "Thailand",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "VN",
+        "name": "Viet Nam",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Swedish International Development Cooperation Agency (SIDA)",
+        "category": "Government agency"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "United Nations Environment Programme (UNEP) / Asia and the Pacific Regional Office and the Secretariat of the Coordinating Body on the Seas of East Asia (COBSEA)",
+        "category": "united nations"
+      }
+    ],
+    "startDate": "2018-08-01T00:00:00.000Z",
+    "endDate": "2025-06-30T00:00:00.000Z",
+    "status": "on_going",
+    "budget": "7824726",
+    "url": "https://www.sea-circular.org/",
+    "isUmbrella": false
+  },
+  {
+    "type": "unep",
+    "id": "unep-4",
+    "feedId": "4",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "Pacific Ocean Litter Project (POLP)",
+    "description": "The Pacific Ocean Litter Project (POLP) is about reducing the volume of single-use plastics ending up as marine litter in Pacific coastal environments. The 7-year project (2019-2027) is funded with AUD 16 million from the Australian Government and implemented by the Secretariat of the Pacific Regional Environment Programme (SPREP) in collaboration with the governments and peoples of Cook Islands, Federated States of Micronesia, Fiji, Kiribati, Nauru, Niue, Palau, Papua New Guinea, Republic of the Marshall Islands, Samoa, Solomon Islands, Tonga, Tuvalu and Vanuatu.",
+    "beneficiaries": [
+      {
+        "iso2": "CK",
+        "name": "Cook Islands",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "FM",
+        "name": "Micronesia (Federated States of)",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "FJ",
+        "name": "Fiji",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "KI",
+        "name": "Kiribati",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": true
+      },
+      {
+        "iso2": "NR",
+        "name": "Nauru",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "NU",
+        "name": "Niue",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "PW",
+        "name": "Palau",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "PG",
+        "name": "Papua New Guinea",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "MH",
+        "name": "Marshall Islands",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "WS",
+        "name": "Samoa",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "SB",
+        "name": "Solomon Islands",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": true
+      },
+      {
+        "iso2": "TO",
+        "name": "Tonga",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "TV",
+        "name": "Tuvalu",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": true
+      },
+      {
+        "iso2": "VU",
+        "name": "Vanuatu",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      }
+    ],
+    "donors": [
+      {
+        "name": "Australia",
+        "category": "Government",
+        "aliases": [
+          "Government of Australia"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "Secretariat of the Pacific Regional Environment Programme (SPREP)",
+        "category": "inter-governmental organization"
+      }
+    ],
+    "startDate": "2019-01-01T00:00:00.000Z",
+    "endDate": "2027-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "budget": "10670000",
+    "url": "https://www.sprep.org/polp",
+    "isUmbrella": false
+  },
+  {
+    "type": "ffem",
+    "id": "ffem-1",
+    "feedId": "1",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "ExPLOI (Indian Ocean Plastic Expedition)",
+    "description": "Thousands of tonnes of plastic are dumped every year into the oceans, with no precise traceability. The Indian Ocean Plastic Expedi-tion (Expédition Plastique Océan Indien - ExPLOI) aims to combat plastic pollution across the region by helping influence the behaviours and engagement of stakeholders, in particular companies, producing shared scientific knowledge, raising awareness and supporting the development of virtuous practices and innovations in reducing, re-using and recycling.",
+    "beneficiaries": [
+      {
+        "iso2": "KM",
+        "name": "Comoros",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": true
+      }
+    ],
+    "donors": [
+      {
+        "name": "Agence Française de Développement (AFD)",
+        "category": "Government agency"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "Indian Ocean Committee (IOC)",
+        "category": "inter-governmental organization"
+      }
+    ],
+    "startDate": "2021-09-01T00:00:00.000Z",
+    "endDate": "2026-09-30T00:00:00.000Z",
+    "status": "on_going",
+    "budget": "7200000",
+    "url": "https://www.ffem.fr/en/carte-des-projets/better-understanding-plastic-pollution-and-strengthening-circular-economy",
+    "isUmbrella": false
+  },
+  {
+    "type": "ffem",
+    "id": "ffem-2",
+    "feedId": "2",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "Innovating for the sustainable management of plastic waste on the Kerkennah islands in Tunisia",
+    "description": "Plastic waste represents an increasingly significant and difficult problem for the world. To assist the island pilot site of Kerkennah in setting up sustainable waste management, the FFEM is supporting a project based on an innovative technical solution that allows used plastics to be converted into fuel.",
+    "beneficiaries": [
+      {
+        "iso2": "TN",
+        "name": "Tunisia",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Agence Française de Développement (AFD)",
+        "category": "Government agency"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "Small Islands Organisation (SMILO)",
+        "category": "non-governmental organization"
+      }
+    ],
+    "startDate": "2021-09-01T00:00:00.000Z",
+    "endDate": "2024-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "budget": "1085000",
+    "url": "https://www.ffem.fr/en/carte-des-projets/innovating-sustainable-management-plastic-waste-kerkennah-islands-tunisia",
+    "isUmbrella": false
+  },
+  {
+    "type": "imo",
+    "id": "imo-1",
+    "feedId": "1",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "GloLitter Partnerships",
+    "description": "The GloLitter Partnerships is a project between the Government of Norway, IMO and FAO aiming to reduce marine litter. The global project supports developing countries, including Small Islands Developing States and Least Developed Countries, in identifying opportunities for the prevention and reduction of marine litter.",
+    "beneficiaries": [
+      {
+        "iso2": "BR",
+        "name": "Brazil",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "CR",
+        "name": "Costa Rica",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "CI",
+        "name": "Côte d'Ivoire",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "IN",
+        "name": "India",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "ID",
+        "name": "Indonesia",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "JM",
+        "name": "Jamaica",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "KE",
+        "name": "Kenya",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "MG",
+        "name": "Madagascar",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      },
+      {
+        "iso2": "NG",
+        "name": "Nigeria",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "VU",
+        "name": "Vanuatu",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "AR",
+        "name": "Argentina",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "CV",
+        "name": "Cabo Verde",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "CO",
+        "name": "Colombia",
+        "countryRegionUn": "grulac",
+        "isDeveloping": false,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "EC",
+        "name": "Ecuador",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "GM",
+        "name": "Gambia",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      },
+      {
+        "iso2": "MZ",
+        "name": "Mozambique",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      },
+      {
+        "iso2": "NI",
+        "name": "Nicaragua",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "PA",
+        "name": "Panama",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "PE",
+        "name": "Peru",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "PH",
+        "name": "Philippines",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "SN",
+        "name": "Senegal",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      },
+      {
+        "iso2": "LK",
+        "name": "Sri Lanka",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "SB",
+        "name": "Solomon Islands",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": true
+      },
+      {
+        "iso2": "SD",
+        "name": "Sudan",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      },
+      {
+        "iso2": "TZ",
+        "name": "United Republic of Tanzania",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      },
+      {
+        "iso2": "TH",
+        "name": "Thailand",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "TL",
+        "name": "Timor-Leste",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": true
+      },
+      {
+        "iso2": "TG",
+        "name": "Togo",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      },
+      {
+        "iso2": "TO",
+        "name": "Tonga",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "VN",
+        "name": "Viet Nam",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Norwegian Agency for Development Cooperation (NORAD)",
+        "category": "Government agency"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "Food and Agriculture Organization of the United Nations (FAO)",
+        "category": "united nations"
+      }
+    ],
+    "startDate": "2020-01-01T00:00:00.000Z",
+    "endDate": "2024-06-30T00:00:00.000Z",
+    "status": "completed",
+    "budget": "4500000",
+    "url": "https://glolitter.imo.org/",
+    "isUmbrella": false
+  },
+  {
+    "type": "niva",
+    "id": "niva-1",
+    "feedId": "1",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "ASEANO 2",
+    "description": "ASEANO 2 is a regional capacity building project led by NIVA and the Centre for Southeast Asian Studies Indonesia (CSEAS), in collaboration with the ASEAN Secretariat. The project is under the leadership of the ASEAN sectoral body ASEAN Working Group on Coastal and Marine Environment (AWGCME). ASEANO2 aims to build and enhance capacity and knowledge to measure, evaluate and address plastic pollution from key terrestrial sources in the ASEAN region through improved understanding of sources, emissions, transport, and fate.",
+    "beneficiaries": [
+      {
+        "iso2": "ID",
+        "name": "Indonesia",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "PH",
+        "name": "Philippines",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "VN",
+        "name": "Viet Nam",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Norwegian Agency for Development Cooperation (NORAD)",
+        "category": "Government agency"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "Norwegian Institute for Water Research (NIVA)",
+        "category": "non-governmental organization"
+      }
+    ],
+    "startDate": "2023-01-01T00:00:00.000Z",
+    "endDate": "2027-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "budget": "2600000",
+    "url": "https://www.niva.no/en/projects/aseano",
+    "isUmbrella": false
+  },
+  {
+    "type": "niva",
+    "id": "niva-2",
+    "feedId": "2",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "INOPOL2",
+    "description": "INOPOL is a collaborative project between NIVA, which leads the project and several Indian research institutions (MGC, SRM, CIPET, Toxics Link). It is part of the Norway-India Marine Pollution Initiative established between Indian and Norwegian authorities in 2019. The project is also part of NORAD’s programme to combat microplastics and marine pollution.",
+    "beneficiaries": [
+      {
+        "iso2": "IN",
+        "name": "India",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Norway",
+        "category": "Government",
+        "aliases": [
+          "Government of Norway"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "Norwegian Institute for Water Research (NIVA)",
+        "category": "non-governmental organization"
+      }
+    ],
+    "startDate": "2022-01-01T00:00:00.000Z",
+    "endDate": "2025-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "budget": "",
+    "url": "https://www.niva.no/en/projects/inopol",
+    "isUmbrella": false
+  },
+  {
+    "type": "unctad",
+    "id": "unctad-1",
+    "feedId": "1",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "Sustainable Manufacturing and Environmental Pollution Programme (SMEP)",
+    "description": "The Sustainable Manufacturing and Environmental Pollution (SMEP) programme has been established by the Foreign, Commonwealth and Development Office (FCDO) and implemented in partnership with the United Nations Conference on Trade and Development (UNCTAD).  The programme aims to address the environmental and health impacts of the manufacturing sector in sub-Saharan Africa and South Asia, and some of the most pressing challenges associated with plastic pollution.",
+    "beneficiaries": [],
+    "donors": [
+      {
+        "name": "United Nations Conference on Trade and Development (UNCTAD)",
+        "category": "united nations"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "",
+        "category": ""
+      }
+    ],
+    "status": "on_going",
+    "budget": "",
+    "url": "https://smepprogramme.org/",
+    "isUmbrella": true
+  },
+  {
+    "type": "unctad",
+    "id": "unctad-2",
+    "feedId": "2",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "Mitigating Plastic Pollution through Heritage Boat Building",
+    "description": "The Flipflopi Project has established a first-of-its-kind plastic waste Material Recovery Facility and a Heritage Boat building training centre in the UNESCO heritage site of Lamu, Kenya. Together with key partners, they are tackling marine ecosystem health and sustainability challenges by combining indigenous knowledge with modern innovation by constructing traditional sailing and motorised vessels, as well as artisanal furniture from plastic waste. The project is called Mitigating Plastic Pollution through Heritage Boat Building.",
+    "beneficiaries": [
+      {
+        "iso2": "KE",
+        "name": "Kenya",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "United Nations Conference on Trade and Development (UNCTAD)",
+        "category": "united nations"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "FlipFlopi Project Foundation Limited",
+        "category": "private sector"
+      }
+    ],
+    "startDate": "2022-01-01T00:00:00.000Z",
+    "endDate": "2024-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "budget": "919500",
+    "url": "https://smepprogramme.org/project/the-flipflopi-project/",
+    "isUmbrella": false,
+    "umbrellaId": "unctad-1"
+  },
+  {
+    "type": "unctad",
+    "id": "unctad-3",
+    "feedId": "3",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "The Ghana Clean-up Project",
+    "description": "River Recycle, in collaboration with Beach Clean-up Ghana Ltd and Ambitious. Africa, is implementing river cleaning technology to collect plastic waste in the Kpeshi Lagoon, engaging the local community in a land-based collection system and creating value for the plastic waste collected by utilising the waste as feedstock for mechanical and chemical recycling.",
+    "beneficiaries": [
+      {
+        "iso2": "GH",
+        "name": "Ghana",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "United Nations Conference on Trade and Development (UNCTAD)",
+        "category": "united nations"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "RiverRecycle",
+        "category": "private sector"
+      }
+    ],
+    "startDate": "2022-01-01T00:00:00.000Z",
+    "endDate": "2024-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "budget": "1655000",
+    "url": "https://smepprogramme.org/project/riverrecycle-oy/",
+    "isUmbrella": false,
+    "umbrellaId": "unctad-1"
+  },
+  {
+    "type": "unctad",
+    "id": "unctad-4",
+    "feedId": "4",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "Finding a sustainable solution to rapid diagnostic tests for neglected diseases",
+    "description": "PA Consulting, the global innovation and transformation consultancy, partnered with Global Access Diagnostics Ltd (GAD) to displace single-use plastic in lateral flow tests (diagnostic cassettes) by replacing them with a cellulose fibre-based product, and ultimately producing these from local agricultural waste.",
+    "beneficiaries": [],
+    "donors": [
+      {
+        "name": "United Nations Conference on Trade and Development (UNCTAD)",
+        "category": "united nations"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "PA Consulting",
+        "category": "private sector"
+      }
+    ],
+    "startDate": "2022-01-01T00:00:00.000Z",
+    "endDate": "2023-03-31T00:00:00.000Z",
+    "status": "completed",
+    "budget": "608000",
+    "url": "https://smepprogramme.org/project/the-pa-consulting-project/",
+    "isUmbrella": false,
+    "umbrellaId": "unctad-1"
+  },
+  {
+    "type": "unctad",
+    "id": "unctad-5",
+    "feedId": "5",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "Bangladesh-Plastic Pollution Reduction through Industrial Symbiosis Matching (B-PRISM)",
+    "description": "Bangladesh-Plastic Pollution Reduction through Industrial Symbiosis Matching (B-PRISM) aims to foster industrial symbiosis in Bangladesh to divert plastic waste from disposal, mitigating the harmful environmental and social impacts of pollution from manufacturing sectors",
+    "beneficiaries": [
+      {
+        "iso2": "BD",
+        "name": "Bangladesh",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "United Nations Conference on Trade and Development (UNCTAD)",
+        "category": "united nations"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "International Synergies Limited",
+        "category": "private sector"
+      }
+    ],
+    "startDate": "2022-01-01T00:00:00.000Z",
+    "endDate": "2022-03-31T00:00:00.000Z",
+    "status": "completed",
+    "budget": "122000",
+    "url": "https://smepprogramme.org/project/the-b-prism-project/",
+    "isUmbrella": false,
+    "umbrellaId": "unctad-1"
+  },
+  {
+    "type": "unctad",
+    "id": "unctad-6",
+    "feedId": "6",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "Catchgreen",
+    "description": "Catchgreen, in collaboration with Swedish-based GAIA Biomaterials, has developed a global first biopolymer to replace harmful plastics in the fishing industry. Our inaugural product is an African-manufactured biodegradable fishing net. Our nets biodegrade with zero microplastics or toxins and provide a solution to marine plastic waste.",
+    "beneficiaries": [
+      {
+        "iso2": "KE",
+        "name": "Kenya",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "ZA",
+        "name": "South Africa",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "TZ",
+        "name": "United Republic of Tanzania",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "United Nations Conference on Trade and Development (UNCTAD)",
+        "category": "united nations"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "Gaia Biomaterials AB",
+        "category": "private sector"
+      }
+    ],
+    "startDate": "2022-03-01T00:00:00.000Z",
+    "endDate": "2026-03-31T00:00:00.000Z",
+    "status": "on_going",
+    "budget": "",
+    "url": "https://smepprogramme.org/project/gaia-biomaterials-ab/",
+    "isUmbrella": false,
+    "umbrellaId": "unctad-1"
+  },
+  {
+    "type": "unctad",
+    "id": "unctad-7",
+    "feedId": "7",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "Production of eco-friendly solar roofing materials from plastic waste",
+    "description": "The Chinhoyi University of Technology, Zimbabwe and Kudiwa Waste and Energy Solutions have teamed up to prototype and then produce solar roofing tiles from plastic waste composite material. By creating a demand for plastic waste as feedstock for the roof tiles, the project plays a vital role in supporting the increased collection of plastic waste and improved revenues for existing waste collectors.",
+    "beneficiaries": [
+      {
+        "iso2": "ZW",
+        "name": "Zimbabwe",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "United Nations Conference on Trade and Development (UNCTAD)",
+        "category": "united nations"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "Chinhoyi University of Science and Technology",
+        "category": "Academia"
+      }
+    ],
+    "startDate": "2022-01-01T00:00:00.000Z",
+    "endDate": "2024-03-31T00:00:00.000Z",
+    "status": "completed",
+    "budget": "566000",
+    "url": "https://smepprogramme.org/project/the-chinhoyi-university-project/",
+    "isUmbrella": false,
+    "umbrellaId": "unctad-1"
+  },
+  {
+    "type": "unctad",
+    "id": "unctad-8",
+    "feedId": "8",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "The GIVO-Warwick Project",
+    "description": "The University of Warwick and GIVO Africa have teamed up to tackle the problem of plastic waste in Nigeria by deploying a simple, modular, readily-scalable, sustainable, digital-enabled waste management solution. The GIVO project will develop digital tools to enable smart and efficient operations of GIVO centres.",
+    "beneficiaries": [
+      {
+        "iso2": "NG",
+        "name": "Nigeria",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "United Nations Conference on Trade and Development (UNCTAD)",
+        "category": "united nations"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "University of Warwic",
+        "category": "Academia"
+      }
+    ],
+    "startDate": "2022-01-01T00:00:00.000Z",
+    "endDate": "2026-03-31T00:00:00.000Z",
+    "status": "on_going",
+    "budget": "1522000",
+    "url": "https://smepprogramme.org/project/the-givo-warwick-project/",
+    "isUmbrella": false,
+    "umbrellaId": "unctad-1"
+  },
+  {
+    "type": "unctad",
+    "id": "unctad-9",
+    "feedId": "9",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "Biodegradable Mulch Films with Customised Biodegradation Rates in Natural Soil Conditions in SubSaharan Countries (AgriBioMulch)",
+    "description": "The Council for Scientific and Industrial Research (CSIR), South Africa, has collaborated with Elizade University, Nigeria, in AgriBioMulchFilm Project to develop biodegradable mulch films (BDM) by using locally available natural polymers such as starch and other additives to customise biodegradation rates of mulches, to replace the current non-biodegradable Polyethylene (PE) mulch films",
+    "beneficiaries": [
+      {
+        "iso2": "NG",
+        "name": "Nigeria",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "ZA",
+        "name": "South Africa",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "United Nations Conference on Trade and Development (UNCTAD)",
+        "category": "united nations"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "The Council for Scientific and Industrial Research (CSIR), South Africa",
+        "category": "research"
+      }
+    ],
+    "startDate": "2022-01-01T00:00:00.000Z",
+    "endDate": "2024-06-30T00:00:00.000Z",
+    "status": "completed",
+    "budget": "1550000",
+    "url": "https://smepprogramme.org/project/the-agrimulchfilm-project/",
+    "isUmbrella": false,
+    "umbrellaId": "unctad-1"
+  },
+  {
+    "type": "unctad",
+    "id": "unctad-10",
+    "feedId": "10",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "Plastic Remanufacturing For Local Housing: Innovation Ecosystem in Nepal",
+    "description": "The University of Cambridge, Impact Hub Kathmandu and Field Ready UK have teamed up to establish an innovation and business support ecosystem to incubate new and emerging businesses working to provide solutions that address plastics wastes, transforming these into durable, long-lasting housing products in Nepal.",
+    "beneficiaries": [
+      {
+        "iso2": "NP",
+        "name": "Nepal",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "United Nations Conference on Trade and Development (UNCTAD)",
+        "category": "united nations"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "University of Cambridge",
+        "category": "Academia"
+      }
+    ],
+    "startDate": "2022-01-01T00:00:00.000Z",
+    "endDate": "2024-06-30T00:00:00.000Z",
+    "status": "completed",
+    "budget": "1853000",
+    "url": "https://smepprogramme.org/project/the-plastic-to-ghar-project/",
+    "isUmbrella": false,
+    "umbrellaId": "unctad-1"
+  },
+  {
+    "type": "unctad",
+    "id": "unctad-11",
+    "feedId": "11",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "The FRESHPPACT Impact Hub",
+    "description": "Blue Skies, in collaboration with Waitrose, has launched the FRESHPPACT Impact Hub (FRESHPPACT) to create a platform that facilitates research and development into the shared environmental challenges facing the fresh produce industry, specifically those with food supply chains rooted in developing or emerging economies.",
+    "beneficiaries": [
+      {
+        "iso2": "GH",
+        "name": "Ghana",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "United Nations Conference on Trade and Development (UNCTAD)",
+        "category": "united nations"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "Blue Skies Pvt Ltd",
+        "category": "private sector"
+      }
+    ],
+    "startDate": "2022-01-01T00:00:00.000Z",
+    "endDate": null,
+    "status": "on_going",
+    "budget": "1505000",
+    "url": "https://smepprogramme.org/project/freshppact-impact-hub/",
+    "isUmbrella": false,
+    "umbrellaId": "unctad-1"
+  },
+  {
+    "type": "unctad",
+    "id": "unctad-12",
+    "feedId": "12",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "Advanced wastewater treatment technology for the plastics recycling industry",
+    "description": "This project is geared towards microplastic pollution mitigation through treating the wastewater produced through the plastic recycling process. That is, an innovative solution that will isolate and separate the pollutants from the water and ensure that the refuse is within the acceptable standards of purity that will not cause any\t\t",
+    "beneficiaries": [
+      {
+        "iso2": "KE",
+        "name": "Kenya",
+        "countryRegionUn": "africa",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "United Nations Conference on Trade and Development (UNCTAD)",
+        "category": "united nations"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "Mr Green Africa",
+        "category": "private sector"
+      }
+    ],
+    "startDate": "2023-04-01T00:00:00.000Z",
+    "endDate": "2025-04-30T00:00:00.000Z",
+    "status": "on_going",
+    "budget": "",
+    "url": "https://smepprogramme.org/project/mr-green-africa/",
+    "isUmbrella": false,
+    "umbrellaId": "unctad-1"
+  },
+  {
+    "type": "usaid",
+    "id": "usaid-1",
+    "feedId": "1",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "Save Our Seas Initiative",
+    "description": "The Save Our Seas Initiative is a USAID initiative to combat ocean plastic pollution globally. It includes 14 national and regional USAID programs in key countries and regions contributing to the flow of plastic waste into the ocean.",
+    "beneficiaries": [],
+    "donors": [
+      {
+        "name": "U.S. Agency for International Development (USAID)",
+        "category": "Government agency"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "",
+        "category": ""
+      }
+    ],
+    "status": "on_going",
+    "budget": "",
+    "url": "https://www.usaid.gov/urban/save-our-seas",
+    "isUmbrella": true
+  },
+  {
+    "type": "usaid",
+    "id": "usaid-2",
+    "feedId": "2",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "Clean Cities, Blue Ocean",
+    "description": "Clean Cities, Blue Ocean (CCBO) is USAID’s global, flagship program under the Save Our Seas Initiative to address the 11 million metric tons of plastic that flow into the ocean each year. By enhancing circularity in rapidly urbanizing areas of developing countries, Clean Cities, Blue Ocean is targeting a major source of ocean plastic pollution.",
+    "beneficiaries": [
+      {
+        "iso2": "ID",
+        "name": "Indonesia",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "MV",
+        "name": "Maldives",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "PH",
+        "name": "Philippines",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "LK",
+        "name": "Sri Lanka",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "VN",
+        "name": "Viet Nam",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "DO",
+        "name": "Dominican Republic",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "PE",
+        "name": "Peru",
+        "countryRegionUn": "grulac",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "FJ",
+        "name": "Fiji",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "PG",
+        "name": "Papua New Guinea",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      },
+      {
+        "iso2": "FM",
+        "name": "Micronesia (Federated States of)",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      }
+    ],
+    "donors": [
+      {
+        "name": "U.S. Agency for International Development (USAID)",
+        "category": "Government agency"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "Tetra Tech",
+        "category": "private sector"
+      }
+    ],
+    "startDate": "2019-08-01T00:00:00.000Z",
+    "endDate": "2024-08-31T00:00:00.000Z",
+    "status": "completed",
+    "budget": "53000000",
+    "url": "https://urban-links.org/project/ccbo/",
+    "isUmbrella": false,
+    "umbrellaId": "usaid-1"
+  },
+  {
+    "type": "usaid",
+    "id": "usaid-3",
+    "feedId": "3",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "USAID SELARAS: Reducing Land-Based Sources of Ocean Plastic Pollution",
+    "description": "USAID SELARAS advances Indonesia’s development goals of reducing land-based sources of ocean plastics pollution and methane by promoting sustainable and integrated solid waste management and recycling systems in cities. The activity addresses governance, financing, service expansion, and social behavior change in the solid waste sector, in partnership with the private sector, civil society, and city governments.",
+    "beneficiaries": [
+      {
+        "iso2": "ID",
+        "name": "Indonesia",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "U.S. Agency for International Development (USAID)",
+        "category": "Government agency"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "Government of Indonesia",
+        "category": "Government"
+      }
+    ],
+    "startDate": "2023-01-01T00:00:00.000Z",
+    "endDate": "2028-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "budget": "",
+    "url": "https://www.usaid.gov/indonesia/fact-sheets/usaid-selaras-reducing-land-based-sources-ocean-plastic-pollution",
+    "isUmbrella": false,
+    "umbrellaId": "usaid-1"
+  },
+  {
+    "type": "usaid",
+    "id": "usaid-4",
+    "feedId": "4",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "Reducing Ocean Plastics in Sri Lanka and Maldives",
+    "description": "To reduce plastics in the environment by decreasing plastic inputs and improving integrated solid waste management (SWM) practices.",
+    "beneficiaries": [
+      {
+        "iso2": "LK",
+        "name": "Sri Lanka",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "MV",
+        "name": "Maldives",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": true
+      }
+    ],
+    "donors": [
+      {
+        "name": "U.S. Agency for International Development (USAID)",
+        "category": "Government agency"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "Research Triangle International (RTI)",
+        "category": "research"
+      }
+    ],
+    "startDate": "2022-10-01T00:00:00.000Z",
+    "endDate": "2027-10-01T00:00:00.000Z",
+    "status": "on_going",
+    "budget": "",
+    "url": "https://www.rti.org/impact/reducing-ocean-plastics-sri-lanka-and-maldives",
+    "isUmbrella": false,
+    "umbrellaId": "usaid-1"
+  },
+  {
+    "type": "usaid",
+    "id": "usaid-5",
+    "feedId": "5",
+    "sourceDate": "2024-12-19T15:19:58.563Z",
+    "name": "Vietnam Action Against Plastic Pollution",
+    "description": "The project is expected to support the development and implementation of at least 10 national and local-level policies that promote the reduction of plastic pollution and sustainable management of municipal solid waste. The project is also expected to support the piloting and scaling up of at least seven models for reducing, collecting, recycling, and disposing of waste, and at least five SUP reduction action plans at the local level.",
+    "beneficiaries": [
+      {
+        "iso2": "VN",
+        "name": "Viet Nam",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "U.S. Agency for International Development (USAID)",
+        "category": "Government agency"
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "CHEMONICS INTERNATIONAL INC",
+        "category": "private sector"
+      }
+    ],
+    "startDate": "2022-01-01T00:00:00.000Z",
+    "endDate": "2027-12-31T00:00:00.000Z",
+    "status": "on_going",
+    "budget": "23400000",
+    "url": "https://www.usaid.gov/vietnam/fact-sheets/vietnam-action-against-plastic-pollution",
+    "isUmbrella": false,
+    "umbrellaId": "usaid-1"
+  }
+]
