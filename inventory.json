@@ -1,0 +1,612 @@
+[
+  {
+    "iso2": "LS",
+    "year": 2025,
+    "country": {
+      "iso2": "LS",
+      "name": "Lesotho",
+      "countryRegionUn": "africa",
+      "isDeveloping": true,
+      "isLDC": true,
+      "isSIDS": false
+    },
+    "total_generation": {
+      "mega": 6325,
+      "small": 4871,
+      "national": 11195
+    },
+    "collected_total": {
+      "mega": 5650,
+      "small": 4079,
+      "national": 9729
+    },
+    "collected_formal_mixed": {
+      "mega": 1025,
+      "small": 792,
+      "national": 1818
+    },
+    "collected_informal_mixed": {
+      "mega": 1674,
+      "small": 1294,
+      "national": 2968
+    },
+    "collected_formal_recycling": {},
+    "collected_informal_recycling": {
+      "mega": 2950,
+      "small": 1993,
+      "national": 4943
+    },
+    "recycled_total": {
+      "mega": 2008,
+      "national": 2008
+    },
+    "disposed_total": {
+      "mega": 2409,
+      "small": 1861,
+      "national": 4271
+    },
+    "disposed_controlled": {},
+    "disposed_uncontrolled": {
+      "mega": 915,
+      "small": 707,
+      "national": 1623
+    },
+    "disposed_taken": {},
+    "disposed_net": {
+      "mega": 2409,
+      "small": 1861,
+      "national": 4271
+    },
+    "leakage_total": {
+      "mega": 933,
+      "small": 692,
+      "national": 1625
+    },
+    "leakage_collections": {
+      "mega": 362,
+      "small": 273,
+      "national": 635
+    },
+    "leakage_transportation": {
+      "mega": 5,
+      "small": 2,
+      "national": 7
+    },
+    "leakage_sorting": {
+      "mega": 196,
+      "small": 132,
+      "national": 328
+    },
+    "leakage_sites": {
+      "mega": 369,
+      "small": 285,
+      "national": 655
+    },
+    "uncollected_total": {
+      "mega": 675,
+      "small": 791,
+      "national": 1466
+    },
+    "unmanaged_total": {
+      "mega": 1607,
+      "small": 1483,
+      "national": 3091
+    },
+    "collected_proportion": {
+      "mega": 89,
+      "medium": null,
+      "small": 84,
+      "national": 87
+    },
+    "recycled_proportion": {
+      "mega": 32,
+      "medium": null,
+      "small": 0,
+      "national": 18
+    },
+    "leakage_proportion": {
+      "mega": 15,
+      "medium": null,
+      "small": 14,
+      "national": 15
+    },
+    "uncollected_proportion": {
+      "mega": 11,
+      "medium": null,
+      "small": 16,
+      "national": 13
+    },
+    "unmanaged_proportion": {
+      "mega": 25,
+      "medium": null,
+      "small": 30,
+      "national": 28
+    },
+    "traded_total": {
+      "mega": 475,
+      "small": 1679,
+      "national": 2154
+    },
+    "imports_total": {},
+    "exports_total": {
+      "mega": 475,
+      "small": 1679,
+      "national": 2154
+    }
+  },
+  {
+    "iso2": "MW",
+    "year": 2025,
+    "country": {
+      "iso2": "MW",
+      "name": "Malawi",
+      "countryRegionUn": "africa",
+      "isDeveloping": true,
+      "isLDC": true,
+      "isSIDS": false
+    },
+    "total_generation": {
+      "mega": 35433,
+      "medium": 6913,
+      "small": 92299,
+      "national": 134645
+    },
+    "collected_total": {
+      "mega": 9190,
+      "medium": 176,
+      "small": 8170,
+      "national": 17537
+    },
+    "collected_formal_mixed": {
+      "mega": 3515,
+      "medium": 34,
+      "small": 396,
+      "national": 3944
+    },
+    "collected_informal_mixed": {
+      "mega": 1292,
+      "medium": 137,
+      "small": 7775,
+      "national": 9203
+    },
+    "collected_formal_recycling": {
+      "mega": 3744,
+      "national": 3744
+    },
+    "collected_informal_recycling": {
+      "mega": 641,
+      "medium": 5,
+      "national": 646
+    },
+    "recycled_total": {
+      "mega": 7300,
+      "medium": 365,
+      "national": 7665
+    },
+    "disposed_total": {
+      "mega": 10585,
+      "medium": 3285,
+      "small": 7300,
+      "national": 21170
+    },
+    "disposed_controlled": {},
+    "disposed_uncontrolled": {
+      "mega": 10585,
+      "medium": 3285,
+      "small": 7300,
+      "national": 21170
+    },
+    "disposed_taken": {
+      "mega": 1387,
+      "medium": 365,
+      "national": 1752
+    },
+    "disposed_net": {
+      "mega": 9198,
+      "medium": 2920,
+      "small": 7300,
+      "national": 19418
+    },
+    "leakage_total": {
+      "mega": 453,
+      "medium": 18,
+      "small": 889,
+      "national": 1359
+    },
+    "leakage_collections": {
+      "mega": 254,
+      "medium": 6,
+      "small": 869,
+      "national": 1130
+    },
+    "leakage_transportation": {
+      "mega": 4,
+      "medium": 0,
+      "small": 1,
+      "national": 5
+    },
+    "leakage_sorting": {
+      "mega": 167,
+      "medium": 3,
+      "national": 169
+    },
+    "leakage_sites": {
+      "mega": 28,
+      "medium": 9,
+      "small": 18,
+      "national": 55
+    },
+    "uncollected_total": {
+      "mega": 26242,
+      "medium": 6738,
+      "small": 84129,
+      "national": 117109
+    },
+    "unmanaged_total": {
+      "mega": 26695,
+      "medium": 6755,
+      "small": 85017,
+      "national": 118468
+    },
+    "collected_proportion": {
+      "mega": 26,
+      "medium": 3,
+      "small": 9,
+      "national": 13
+    },
+    "recycled_proportion": {
+      "mega": 21,
+      "medium": 5,
+      "small": 0,
+      "national": 6
+    },
+    "leakage_proportion": {
+      "mega": 1,
+      "medium": 0,
+      "small": 1,
+      "national": 1
+    },
+    "uncollected_proportion": {
+      "mega": 74,
+      "medium": 97,
+      "small": 91,
+      "national": 87
+    },
+    "unmanaged_proportion": {
+      "mega": 75,
+      "medium": 98,
+      "small": 92,
+      "national": 88
+    },
+    "incinerated_total": {},
+    "traded_total": {},
+    "imports_total": {},
+    "exports_total": {},
+    "incinerated_proportion": {}
+  },
+  {
+    "iso2": "GH",
+    "year": 2024,
+    "country": {
+      "iso2": "GH",
+      "name": "Ghana",
+      "countryRegionUn": "africa",
+      "isDeveloping": true,
+      "isLDC": false,
+      "isSIDS": false
+    },
+    "total_generation": {
+      "mega": 115676,
+      "medium": 620600,
+      "small": 162756,
+      "national": 899032
+    },
+    "collected_total": {
+      "mega": 96337,
+      "medium": 339462,
+      "small": 82071,
+      "national": 517870
+    },
+    "collected_formal_mixed": {
+      "mega": 79785,
+      "medium": 260645,
+      "small": 70425,
+      "national": 410855
+    },
+    "collected_informal_mixed": {
+      "mega": 10908,
+      "medium": 29865,
+      "small": 8145,
+      "national": 48917
+    },
+    "collected_formal_recycling": {
+      "mega": 2621,
+      "national": 2621
+    },
+    "collected_informal_recycling": {
+      "mega": 3023,
+      "medium": 48953,
+      "small": 3501,
+      "national": 55477
+    },
+    "recycled_total": {
+      "mega": 21900,
+      "medium": 61320,
+      "small": 4380,
+      "national": 87600
+    },
+    "disposed_total": {
+      "mega": 78654,
+      "medium": 287299,
+      "small": 72650,
+      "national": 438602
+    },
+    "disposed_controlled": {
+      "mega": 42473,
+      "national": 42473
+    },
+    "disposed_uncontrolled": {
+      "mega": 36181,
+      "medium": 287299,
+      "small": 72650,
+      "national": 396129
+    },
+    "disposed_taken": {
+      "mega": 7756,
+      "medium": 21718,
+      "small": 1551,
+      "national": 31025
+    },
+    "disposed_net": {
+      "mega": 70898,
+      "medium": 265581,
+      "small": 71098,
+      "national": 407577
+    },
+    "leakage_total": {
+      "mega": 3638,
+      "medium": 13315,
+      "small": 6774,
+      "national": 23727
+    },
+    "leakage_collections": {
+      "mega": 2901,
+      "medium": 9982,
+      "small": 6249,
+      "national": 19132
+    },
+    "leakage_transportation": {
+      "mega": 112,
+      "medium": 404,
+      "small": 198,
+      "national": 713
+    },
+    "leakage_sorting": {
+      "mega": 526,
+      "medium": 2175,
+      "small": 146,
+      "national": 2847
+    },
+    "leakage_sites": {
+      "mega": 99,
+      "medium": 754,
+      "small": 182,
+      "national": 1035
+    },
+    "uncollected_total": {
+      "mega": 19339,
+      "medium": 281138,
+      "small": 80685,
+      "national": 381162
+    },
+    "unmanaged_total": {
+      "mega": 22977,
+      "medium": 294453,
+      "small": 87460,
+      "national": 404890
+    },
+    "collected_proportion": {
+      "mega": 83,
+      "medium": 55,
+      "small": 50,
+      "national": 58
+    },
+    "recycled_proportion": {
+      "mega": 19,
+      "medium": 10,
+      "small": 3,
+      "national": 10
+    },
+    "leakage_proportion": {
+      "mega": 3,
+      "medium": 2,
+      "small": 4,
+      "national": 3
+    },
+    "uncollected_proportion": {
+      "mega": 17,
+      "medium": 45,
+      "small": 50,
+      "national": 42
+    },
+    "unmanaged_proportion": {
+      "mega": 20,
+      "medium": 47,
+      "small": 54,
+      "national": 45
+    }
+  },
+  {
+    "iso2": "LK",
+    "year": 2024,
+    "country": {
+      "iso2": "LK",
+      "name": "Sri Lanka",
+      "countryRegionUn": "asia-pacific",
+      "isDeveloping": true,
+      "isLDC": false,
+      "isSIDS": false
+    },
+    "total_generation": {
+      "mega": 67663,
+      "medium": 26143,
+      "small": 155231,
+      "national": 249037
+    },
+    "collected_total": {
+      "mega": 53956,
+      "medium": 14212,
+      "small": 80332,
+      "national": 148499
+    },
+    "collected_formal_mixed": {
+      "mega": 41482,
+      "medium": 4357,
+      "small": 28444,
+      "national": 74283
+    },
+    "collected_informal_mixed": {
+      "medium": 64,
+      "small": 3486,
+      "national": 3549
+    },
+    "collected_formal_recycling": {
+      "mega": 3355,
+      "medium": 1624,
+      "small": 1031,
+      "national": 6011
+    },
+    "collected_informal_recycling": {
+      "mega": 9118,
+      "medium": 8167,
+      "small": 47371,
+      "national": 64656
+    },
+    "recycled_total": {
+      "mega": 12499,
+      "medium": 5906,
+      "small": 8370,
+      "national": 26775
+    },
+    "disposed_total": {
+      "mega": 39563,
+      "medium": 10682,
+      "small": 46632,
+      "national": 96877
+    },
+    "disposed_controlled": {
+      "small": 9326,
+      "national": 9326
+    },
+    "disposed_uncontrolled": {
+      "mega": 39563,
+      "medium": 10682,
+      "small": 37306,
+      "national": 87550
+    },
+    "disposed_taken": {
+      "mega": 3537,
+      "medium": 513,
+      "small": 527,
+      "national": 4577
+    },
+    "disposed_net": {
+      "mega": 36026,
+      "medium": 10169,
+      "small": 46105,
+      "national": 92300
+    },
+    "leakage_total": {
+      "mega": 34501,
+      "medium": 9624,
+      "small": 54666,
+      "national": 98791
+    },
+    "leakage_collections": {
+      "mega": 1537,
+      "medium": 294,
+      "small": 4744,
+      "national": 6575
+    },
+    "leakage_transportation": {
+      "mega": 32,
+      "medium": 46,
+      "small": 206,
+      "national": 284
+    },
+    "leakage_sorting": {
+      "mega": 1004,
+      "medium": 682,
+      "small": 12177,
+      "national": 13863
+    },
+    "leakage_sites": {
+      "mega": 31927,
+      "medium": 8602,
+      "small": 37539,
+      "national": 78068
+    },
+    "uncollected_total": {
+      "mega": 13707,
+      "medium": 11931,
+      "small": 74899,
+      "national": 100538
+    },
+    "unmanaged_total": {
+      "mega": 48209,
+      "medium": 21555,
+      "small": 129565,
+      "national": 199329
+    },
+    "collected_proportion": {
+      "mega": 80,
+      "medium": 54,
+      "small": 52,
+      "national": 60
+    },
+    "recycled_proportion": {
+      "mega": 18,
+      "medium": 23,
+      "small": 5,
+      "national": 11
+    },
+    "leakage_proportion": {
+      "mega": 51,
+      "medium": 37,
+      "small": 35,
+      "national": 40
+    },
+    "uncollected_proportion": {
+      "mega": 20,
+      "medium": 46,
+      "small": 48,
+      "national": 40
+    },
+    "unmanaged_proportion": {
+      "mega": 71,
+      "medium": 82,
+      "small": 83,
+      "national": 80
+    },
+    "incinerated_total": {
+      "mega": 7771,
+      "medium": 1631,
+      "national": 9402
+    },
+    "traded_total": {
+      "national": 3660
+    },
+    "imports_total": {
+      "national": 3588
+    },
+    "exports_total": {
+      "national": 72
+    },
+    "incinerated_proportion": {
+      "mega": 11,
+      "medium": 6,
+      "small": 0,
+      "national": 4
+    }
+  }
+]

@@ -1,0 +1,270 @@
+[
+    {
+        "name": "Asian Development Bank, The",
+        "category": "international financial institution",
+        "aliases": ["Asian Development Bank"]
+    },
+    {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": ["Global Environment Facility", "Global Environment Fund Trustee", "GEF - Global Environment Facility"]
+    },
+    {
+        "name": "Hongkong & Shanghai Banking Corporation",
+        "category": "international financial institution"
+    },
+    {
+        "name": "Food and Agriculture Organization of the United Nations (FAO)",
+        "category": "united nations",
+        "url": "https://www.fao.org",
+        "aliases": ["Food and Agriculture Organization"]
+    },
+    {
+        "name": "United Nations Industrial Development Organization (UNIDO)",
+        "category": "united nations",
+        "url": "http://www.unido.org",
+        "aliases": ["United Nations Industrial Development Organization", "UN INDUSTRIAL DEVELOPMENT ORGANIZATION", "Regular Programme Of Technical Cooperation"]
+    },
+    {
+        "name": "United Nations Development Programme (UNDP)",
+        "category": "united nations",
+        "url": "http://www.undp.org/",
+        "aliases": ["National Execution", "Natl Council Sustainable Dev.", "United Nations Development Programme", "UNDP", "UNITED NATIONS DEVELOPMENT PROGRAMME"]
+    },
+    {
+        "name": "United Nations Conference on Trade and Development (UNCTAD)",
+        "category": "united nations",
+        "aliases": ["UN CONF ON TRADE & DEVELOPMENT"]
+    },
+    {
+        "name": "United Nations Environment Programme (UNEP)",
+        "category": "united nations",
+        "aliases": ["United Nations Environment Programme"]
+    },
+    {
+        "name": "United Nations Volunteers (UNV)",
+        "category": "united nations",
+        "url": "https://www.unv.org/",
+        "aliases": ["UNITED NATIONS VOLUNTEERS"]
+    },
+    {
+        "name": "Montreal Protocol",
+        "category": "united nations"
+    },
+    {
+        "name": "The World Bank Group",
+        "category": "united nations",
+        "aliases": ["The World Bank"]
+    },
+    {
+        "name": "World Wildlife Fund",
+        "category": "non-governmental organization",
+        "aliases": ["World Wildlife Fund", "World Wildlife Fund - US Chapter"]
+    },
+    {
+        "name": "International Union for Conservation of Nature (IUCN)",
+        "category": "non-governmental organization",
+        "url": "https://www.iucn.org/",
+        "aliases": ["IUCN-US (501c3 organization)"]
+    },
+    {
+        "name": "World Economic Forum",
+        "category": "non-governmental organization",
+        "aliases": ["WORLD ECONOMIC FORUM"]
+    },
+    {
+        "name": "The Ocean Cleanup",
+        "category": "non-governmental organization"
+    },
+    {
+        "name": "Seven Clean Seas",
+        "category": "non-governmental organization"
+    },
+    {
+        "name": "Global Water Challenge",
+        "category": "non-governmental organization"
+    },
+    {
+        "name": "Stockholm International Water Institute",
+        "category": "non-governmental organization"
+    },
+    {
+        "name": "Fondation Didier et Martine Primat",
+        "category": "non-governmental organization"
+    },
+    {
+        "name": "Fondation Prince Albert II de Monaco",
+        "category": "non-governmental organization"
+    },
+    {
+        "name": "The Coca-Cola Foundation",
+        "category": "non-governmental organization"
+    },
+    {
+        "name": "Charities Aid Foundation India",
+        "category": "non-governmental organization"
+    },
+    {
+        "name": "CSR Trust for SDGs in India",
+        "category": "non-governmental organization"
+    },
+    {
+        "name": "Institute for Global Environmental Strategies (IGES)",
+        "category": "non-governmental organization",
+        "aliases": ["Institute for Global Environmental Strategies"]
+    },
+    {
+        "name": "South Asia Co-operative Environment Programme (SACEP)",
+        "category": "non-governmental organization",
+        "aliases": ["SACEP"]
+    },
+    {
+        "name": "Ministry of Natural Resources and Environment (Viet Nam)",
+        "category": "Government agency",
+        "aliases": ["Ministry of Natural Resources and Environment"]
+    },
+    {
+        "name": "Department of National Parks, Wildlife and Plant Conservation (Thailand)",
+        "category": "Government agency",
+        "aliases": ["Department of National Parks, Wildlife and Plant Conservation"]
+    },
+    {
+        "name": "Department of Wildlife Conservation (Sri Lanka)",
+        "category": "Government agency",
+        "aliases": ["Department of Wildlife Conservation"]
+    },
+    {
+        "name": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH",
+        "category": "Government agency",
+        "aliases": ["Deutsche Gesellschaft für Internationale Zusammena"]
+    },
+    {
+        "name": "Agence Française de Développement (AFD)",
+        "category": "Government agency",
+        "aliases": ["Agence Française de Développement"]
+    },
+    {
+        "name": "Swedish Environmental Protection Agency",
+        "category": "Government agency"
+    },
+    {
+        "name": "Norwegian Environment Agency",
+        "category": "Government agency"
+    },
+    {
+        "name": "Bureau of Oceans and International Environmental and Scientific Affairs (US)",
+        "category": "Government agency",
+        "aliases": ["US Department of State, Bureau of Oceans and Inter"]
+    },
+    {
+        "name": "Agenzia Italiana per la Cooperazione allo Sviluppo",
+        "category": "Government agency"
+    },
+    {
+        "name": "Department for International Development (DFID) (UK)",
+        "category": "Government agency",
+        "aliases": ["DEPARTMENT FOR INT'L DEVELOPMENT (DFID)"]
+    },
+    {
+        "name": "Foreign, Commonwealth and Development Office (UK)",
+        "category": "Government agency",
+        "aliases": ["Foreign,Commonwealth & Dev.Off."]
+    },
+    {
+        "name": "Ministry of Foreign Affairs (Norway)",
+        "category": "Government agency",
+        "aliases": ["MINISTRY OF FOREIGN AFFAIRS", "NOR - MINISTRY OF FOREIGN AFFAIRS"]
+    },
+    {
+        "name": "Swedish International Development Cooperation Agency (SIDA)",
+        "category": "Government agency",
+        "aliases": ["SWEDISH INT'L DEVELOPMENT COOPERATION", "Swedish International Development Cooperation Agen"]
+    },
+    {
+        "name": "Norwegian Agency for Development Cooperation (NORAD)",
+        "category": "Government agency",
+        "aliases": ["Norwegian Ag Dev Coop", "Norwegian Agency for International Development", "Norwegian Agency for Development Cooperation"]
+    },
+    {
+        "name": "Government of Odisha (India)",
+        "category": "Government agency",
+        "aliases": ["Government of Odisha"]
+    },
+    {
+        "name": "Government of Uttarakhand (India)",
+        "category": "Government agency",
+        "aliases": ["IND-Government of Uttarakhand"]
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "category": "Government",
+        "aliases": ["GOVERNMENT OF BOSNIA AND HERZEGOVINA"]
+    },
+    {
+        "name": "Japan",
+        "category": "Government",
+        "aliases": ["GOVERNMENT OF JAPAN"]
+    },
+    {
+        "name": "Principauté de Monaco",
+        "category": "Government"
+    },
+    {
+        "name": "Russian Federation",
+        "category": "Government",
+        "aliases": ["GOVERNMENT OF RUSSIAN FEDERATION"]
+    },
+    {
+        "name": "Netherlands (Kingdom of the)",
+        "category": "Government",
+        "aliases": ["GOVERNMENT OF NETHERLANDS"]
+    },
+    {
+        "name": "India",
+        "category": "Government"
+    },
+    {
+        "name": "Australia",
+        "category": "Government",
+        "aliases": ["Government of Australia"]
+    },
+    {
+        "name": "Norway",
+        "category": "Government",
+        "aliases": ["Government of Norway"]
+    },
+    {
+        "name": "The Coca-Cola Company",
+        "category": "private sector",
+        "aliases": ["THE MANUFACTURER,MARKETER, AND DISTRIBUTOR OF NONALCOHOLIC BEVERAGE CONCENTRATES AND SYRUPS"]
+    },
+    {
+        "name": "Hindustan Unilever Limited",
+        "category": "private sector"
+    },
+    {
+        "name": "GRAMEENPHONE LTD",
+        "category": "private sector"
+    },
+    {
+        "name": "PT Tirta Investama",
+        "category": "private sector"
+    },
+    {
+        "name": "Unilever Bangladesh Limited",
+        "category": "private sector"
+    },
+    {
+        "name": "HSBC Holdings plc",
+        "category": "private sector"
+    },
+    {
+        "name": "Pro Viet Nam-Packaging Recycling Limited Liability",
+        "category": "private sector"
+    },
+    {
+        "name": "Accor",
+        "category": "private sector"
+    }
+]

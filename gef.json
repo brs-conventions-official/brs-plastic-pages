@@ -1,0 +1,229 @@
+[
+  {
+    "type": "gef",
+    "feedId": "11197",
+    "sourceDate": "2026-07-21T23:03:34.890Z",
+    "id": "gef-11197",
+    "name": "Plastic Reboot (GEF Circular Solutions to Plastic Pollution)",
+    "beneficiaries": [],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "United Nations Environment Programme (UNEP)",
+        "category": "united nations",
+        "aliases": [
+          "United Nations Environment Programme"
+        ]
+      },
+      {
+        "name": "World Wildlife Fund",
+        "category": "non-governmental organization",
+        "aliases": [
+          "World Wildlife Fund",
+          "World Wildlife Fund - US Chapter"
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "name": "Biodiversity"
+      },
+      {
+        "name": "Climate Change"
+      },
+      {
+        "name": "International Waters"
+      }
+    ],
+    "status": "on_going",
+    "budget": 130194549,
+    "isGlobal": true,
+    "url": "https://www.thegef.org/projects-operations/projects/11197",
+    "isUmbrella": true
+  },
+  {
+    "type": "gef",
+    "feedId": "11190",
+    "sourceDate": "2026-07-21T23:03:34.890Z",
+    "id": "gef-11190",
+    "name": "Promoting Circular Solutions to Single-Use Plastic Consumption in Lao PDR. (Plastics IP)",
+    "beneficiaries": [
+      {
+        "iso2": "LA",
+        "name": "Lao People's Democratic Republic",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": true,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "World Wildlife Fund",
+        "category": "non-governmental organization",
+        "aliases": [
+          "World Wildlife Fund",
+          "World Wildlife Fund - US Chapter"
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "name": "International Waters"
+      }
+    ],
+    "status": "on_going",
+    "budget": 10796487,
+    "isGlobal": false,
+    "url": "https://www.thegef.org/projects-operations/projects/11190",
+    "umbrellaId": "gef-11197",
+    "umbrellaUrl": "https://www.worldwildlife.org/projects/circular-solutions-to-plastic-pollution-global-project"
+  },
+  {
+    "type": "gef",
+    "feedId": "10628",
+    "sourceDate": "2026-07-21T23:03:34.890Z",
+    "id": "gef-10628",
+    "name": "Promoting Resource Efficiency and Circularity to Reduce Plastic Pollution for Asia and the Pacific",
+    "beneficiaries": [
+      {
+        "iso2": "TH",
+        "name": "Thailand",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "VN",
+        "name": "Viet Nam",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "PH",
+        "name": "Philippines",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      },
+      {
+        "iso2": "ID",
+        "name": "Indonesia",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "Asian Development Bank, The",
+        "category": "international financial institution",
+        "aliases": [
+          "Asian Development Bank"
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "name": "International Waters"
+      },
+      {
+        "name": "Chemicals and Waste"
+      }
+    ],
+    "status": "on_going",
+    "budget": 75687470,
+    "isGlobal": false,
+    "url": "https://www.thegef.org/projects-operations/projects/10628"
+  },
+  {
+    "type": "gef",
+    "feedId": "10546",
+    "sourceDate": "2026-07-21T23:03:34.890Z",
+    "id": "gef-10546",
+    "name": "Plastik Sulit: Accelerating Circular Economy for Difficult Plastics in Indonesia",
+    "beneficiaries": [
+      {
+        "iso2": "ID",
+        "name": "Indonesia",
+        "countryRegionUn": "asia-pacific",
+        "isDeveloping": true,
+        "isLDC": false,
+        "isSIDS": false
+      }
+    ],
+    "donors": [
+      {
+        "name": "Global Environment Facility (GEF)",
+        "category": "international financial institution",
+        "url": "http://www.thegef.org",
+        "aliases": [
+          "Global Environment Facility",
+          "Global Environment Fund Trustee",
+          "GEF - Global Environment Facility"
+        ]
+      }
+    ],
+    "implementedBy": [
+      {
+        "name": "Asian Development Bank, The",
+        "category": "international financial institution",
+        "aliases": [
+          "Asian Development Bank"
+        ]
+      }
+    ],
+    "keywords": [
+      {
+        "name": "International Waters"
+      },
+      {
+        "name": "Chemicals and Waste"
+      }
+    ],
+    "status": "on_going",
+    "budget": 68873222,
+    "isGlobal": false,
+    "url": "https://www.thegef.org/projects-operations/projects/10546"
+  }
+]
